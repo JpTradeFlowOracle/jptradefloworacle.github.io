@@ -1,0 +1,42 @@
+# JP Disclosure Intelligence
+> Structured English-language Japanese corporate disclosure data, updated every business day by 17:30 JST.
+
+## About
+JP Disclosure Intelligence aggregates and structures corporate disclosures from Japan's official financial disclosure systems (TDnet and EDINET) and publishes them in English for global accessibility. Data is collected automatically each business day.
+
+## Data Sources
+- TDnet (Tokyo Stock Exchange Timely Disclosure Network): Daily corporate announcements including earnings revisions, share buybacks, M&A, and management changes.
+- EDINET (Financial Services Agency): Statutory filings including extraordinary reports and large shareholder reports (>5% ownership changes).
+
+## Machine-Readable Data Endpoints
+- Today's disclosures (JSON): /data/today.json
+- Today's disclosures (CSV): /data/today.csv
+- Specific date (JSON): /data/YYYY-MM-DD.json
+- Specific date (CSV): /data/YYYY-MM-DD.csv
+- Archive index: /data/index.json
+
+## Human-Readable Pages
+- Today's disclosures: /daily/today.html
+- Specific date: /daily/YYYY-MM-DD.html
+- Archive: /archive/
+
+## Data Schema
+Each disclosure record contains:
+- time_jst: Filing time in Japan Standard Time
+- ticker: TSE ticker code
+- company_jp: Company name in Japanese
+- company_en: Company name in English
+- title_jp: Disclosure title in Japanese
+- title_en: Disclosure title in English
+- category: Disclosure category (Earnings Report, Share Buyback, M&A, etc.)
+- market: Exchange (TSE Prime, TSE Standard, TSE Growth, etc.)
+- doc_url: Direct link to PDF document
+
+## Update Schedule
+- Data collected: Every business day (Mon-Fri, excluding Japanese public holidays)
+- Collection time: 13:00 JST
+- Publication time: By 17:30 JST
+- Non-business days: today.json and today.csv reflect the most recent business day
+
+## Contact
+Repository: https://github.com/JpTradeFlowOracle/jp-disclosure-intelligence
