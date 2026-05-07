@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JP Disclosure Intelligence — Japanese Corporate Disclosures in English</title>
+  <meta name="description" content="Daily structured English-language feed of Japanese corporate disclosures from TDnet (TSE) and EDINET (FSA). Machine-readable JSON and CSV. Updated every business day.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #0a0a0f;
+      --ink-2: #2a2a35;
+      --ink-3: #6b6b80;
+      --paper: #f5f4f0;
+      --paper-2: #eceae4;
+      --accent: #c8402a;
+      --accent-2: #1a3a5c;
+      --gold: #c8960a;
+      --mono: 'DM Mono', monospace;
+      --display: 'Syne', sans-serif;
+      --body: 'DM Sans', sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--body);
+      background: var(--paper);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--ink);
+      color: var(--paper);
+      padding: 0 48px;
+      position: relative;
+      overflow: hidden;
+      min-height: 320px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding-bottom: 48px;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 400px; height: 400px;
+      background: radial-gradient(circle, rgba(200,64,42,0.15) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    header::after {
+      content: 'JP';
+      position: absolute;
+      top: -20px; right: 32px;
+      font-family: var(--display);
+      font-size: 220px;
+      font-weight: 800;
+      color: rgba(255,255,255,0.03);
+      line-height: 1;
+      pointer-events: none;
+      user-select: none;
+    }
+    .header-eyebrow {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards 0.1s;
+    }
+    header h1 {
+      font-family: var(--display);
+      font-size: clamp(2rem, 5vw, 3.6rem);
+      font-weight: 800;
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      max-width: 700px;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards 0.2s;
+    }
+    header h1 em {
+      font-style: normal;
+      color: var(--accent);
+    }
+    .header-sub {
+      font-family: var(--body);
+      font-size: 0.95rem;
+      font-weight: 300;
+      color: rgba(245,244,240,0.6);
+      margin-top: 16px;
+      max-width: 500px;
+      line-height: 1.6;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards 0.3s;
+    }
+    .header-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 28px;
+      flex-wrap: wrap;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards 0.4s;
+    }
+    .badge {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.08em;
+      padding: 6px 14px;
+      border: 1px solid rgba(245,244,240,0.2);
+      border-radius: 2px;
+      color: rgba(245,244,240,0.7);
+    }
+    .badge.live {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .badge.live::before {
+      content: '● ';
+      animation: blink 1.4s ease infinite;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--ink-2);
+      padding: 0 48px;
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      height: 48px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    nav a {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(245,244,240,0.5);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    nav a:hover { color: var(--paper); }
+    nav a.active { color: var(--accent); }
+
+    /* ── MAIN ── */
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 64px 48px;
+    }
+
+    /* ── TODAY CARD ── */
+    .today-card {
+      background: var(--ink);
+      color: var(--paper);
+      border-radius: 4px;
+      padding: 40px 48px;
+      margin-bottom: 64px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 32px;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+      opacity: 0;
+      animation: fadeUp 0.7s ease forwards 0.5s;
+    }
+    .today-card::before {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0;
+      width: 100%; height: 3px;
+      background: linear-gradient(90deg, var(--accent), var(--gold), transparent);
+    }
+    .today-label {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+    .today-card h2 {
+      font-family: var(--display);
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      font-weight: 700;
+      line-height: 1.2;
+    }
+    .today-card p {
+      font-size: 0.88rem;
+      font-weight: 300;
+      color: rgba(245,244,240,0.6);
+      margin-top: 10px;
+      line-height: 1.6;
+    }
+    .today-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 160px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 12px 24px;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 2px;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: var(--accent);
+      color: white;
+    }
+    .btn-primary:hover { background: #a83320; }
+    .btn-outline {
+      border: 1px solid rgba(245,244,240,0.25);
+      color: rgba(245,244,240,0.7);
+    }
+    .btn-outline:hover {
+      border-color: var(--paper);
+      color: var(--paper);
+    }
+
+    /* ── SECTION HEADER ── */
+    .section-header {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+    .section-header h2 {
+      font-family: var(--display);
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+    .section-header .section-line {
+      flex: 1;
+      height: 1px;
+      background: var(--paper-2);
+    }
+
+    /* ── RECENT DAYS ── */
+    .recent-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+      margin-bottom: 64px;
+    }
+    .day-card {
+      background: white;
+      border: 1px solid var(--paper-2);
+      border-radius: 4px;
+      padding: 24px;
+      text-decoration: none;
+      color: var(--ink);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: all 0.2s;
+      opacity: 0;
+      animation: fadeUp 0.5s ease forwards;
+    }
+    .day-card:nth-child(1) { animation-delay: 0.6s; }
+    .day-card:nth-child(2) { animation-delay: 0.7s; }
+    .day-card:nth-child(3) { animation-delay: 0.8s; }
+    .day-card:nth-child(4) { animation-delay: 0.9s; }
+    .day-card:nth-child(5) { animation-delay: 1.0s; }
+    .day-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+    }
+    .day-card-date {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .day-of-week {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .day-fmt {
+      font-family: var(--display);
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+    .day-card-count {
+      font-family: var(--display);
+      font-size: 2.4rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      line-height: 1;
+      color: var(--ink);
+    }
+    .day-card-count span {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 400;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-left: 6px;
+    }
+    .day-card-cats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .cat-tag {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      padding: 3px 8px;
+      background: var(--paper);
+      border-radius: 2px;
+      color: var(--ink-3);
+      white-space: nowrap;
+    }
+
+    /* ── DATA ACCESS ── */
+    .data-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 16px;
+      margin-bottom: 64px;
+    }
+    .data-card {
+      border: 1px solid var(--paper-2);
+      border-radius: 4px;
+      padding: 24px;
+      background: white;
+      text-decoration: none;
+      color: var(--ink);
+      transition: all 0.2s;
+    }
+    .data-card:hover {
+      border-color: var(--accent-2);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+    }
+    .data-card-type {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-2);
+      margin-bottom: 8px;
+    }
+    .data-card h3 {
+      font-family: var(--display);
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .data-card p {
+      font-size: 0.8rem;
+      color: var(--ink-3);
+      line-height: 1.5;
+    }
+    .data-card .endpoint {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      color: var(--ink-3);
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--paper-2);
+      word-break: break-all;
+    }
+
+    /* ── ABOUT ── */
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 64px;
+    }
+    .about-card {
+      background: white;
+      border: 1px solid var(--paper-2);
+      border-radius: 4px;
+      padding: 32px;
+    }
+    .about-card h3 {
+      font-family: var(--display);
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    .about-card p {
+      font-size: 0.85rem;
+      color: var(--ink-2);
+      line-height: 1.7;
+    }
+    .about-card .sources {
+      margin-top: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .source-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--ink-3);
+    }
+    .source-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--ink);
+      color: rgba(245,244,240,0.4);
+      padding: 40px 48px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    footer p {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.05em;
+    }
+    footer a {
+      color: rgba(245,244,240,0.4);
+      text-decoration: none;
+    }
+    footer a:hover { color: var(--paper); }
+
+    /* ── ANIMATIONS ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.3; }
+    }
+
+    @media (max-width: 768px) {
+      header { padding: 32px 24px; min-height: 240px; }
+      nav { padding: 0 24px; gap: 20px; }
+      main { padding: 40px 24px; }
+      .today-card { grid-template-columns: 1fr; padding: 28px; }
+      .about-grid { grid-template-columns: 1fr; }
+      footer { padding: 32px 24px; flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-eyebrow">Japan Corporate Disclosure Data</div>
+    <h1>JP Disclosure<br><em>Intelligence</em></h1>
+    <p class="header-sub">Structured English-language feed of Japanese corporate filings — sourced from TDnet and EDINET. Updated every business day.</p>
+    <div class="header-badges">
+      <span class="badge live">Updated daily</span>
+      <span class="badge">TDnet + EDINET</span>
+      <span class="badge">JSON · CSV · HTML</span>
+      <span class="badge">Free</span>
+    </div>
+  </header>
+
+  <nav>
+    <a href="/" class="active">Home</a>
+    <a href="/daily/today.html">Today</a>
+    <a href="/data/today.json">JSON API</a>
+    <a href="/data/today.csv">CSV</a>
+    <a href="/llms.txt">llms.txt</a>
+  </nav>
+
+  <main>
+    <!-- Today card -->
+    <div class="today-card">
+      <div>
+        <div class="today-label">Latest Available Data</div>
+        <h2>Japanese Corporate Disclosures<br>— Today's Feed</h2>
+        <p>All timely disclosures filed on the Tokyo Stock Exchange, structured in English. Includes TDnet filings and EDINET extraordinary reports.</p>
+      </div>
+      <div class="today-actions">
+        <a href="/daily/today.html" class="btn btn-primary">View Today →</a>
+        <a href="/data/today.json" class="btn btn-outline">⬇ JSON</a>
+        <a href="/data/today.csv" class="btn btn-outline">⬇ CSV</a>
+      </div>
+    </div>
+
+    <!-- Recent days -->
+    <div class="section-header">
+      <h2>Recent Business Days</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="recent-grid">
+      
+        <a href="/daily/2026-05-07.html" class="day-card">
+          <div class="day-card-date">
+            <span class="day-of-week">Thu</span>
+            <span class="day-fmt">May 07, 2026</span>
+          </div>
+          <div class="day-card-count">266<span>filings</span></div>
+          <div class="day-card-cats"><span class="cat-tag">📄 Other</span><span class="cat-tag">🔄 Share Buyback</span><span class="cat-tag">📊 Earnings Report</span></div>
+        </a>
+    </div>
+
+    <!-- Data access -->
+    <div class="section-header">
+      <h2>Machine-Readable Data</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="data-grid">
+      <a href="/data/today.json" class="data-card">
+        <div class="data-card-type">JSON</div>
+        <h3>Today's Disclosures</h3>
+        <p>Full structured dataset with categories, company names in English, and metadata.</p>
+        <div class="endpoint">/data/today.json</div>
+      </a>
+      <a href="/data/today.csv" class="data-card">
+        <div class="data-card-type">CSV</div>
+        <h3>Today's CSV Feed</h3>
+        <p>Flat tabular format with English translations. Compatible with Excel, pandas, and any data tool.</p>
+        <div class="endpoint">/data/today.csv</div>
+      </a>
+      <a href="/llms.txt" class="data-card">
+        <div class="data-card-type">AI</div>
+        <h3>llms.txt</h3>
+        <p>Machine-readable index of all data endpoints. Optimized for AI crawlers and citation.</p>
+        <div class="endpoint">/llms.txt</div>
+      </a>
+      <a href="/data/index.json" class="data-card">
+        <div class="data-card-type">JSON</div>
+        <h3>Archive Index</h3>
+        <p>Complete index of all available dates with summary statistics.</p>
+        <div class="endpoint">/data/index.json</div>
+      </a>
+    </div>
+
+    <!-- About -->
+    <div class="section-header">
+      <h2>About This Project</h2>
+      <div class="section-line"></div>
+    </div>
+    <div class="about-grid">
+      <div class="about-card">
+        <h3>What is JP Disclosure Intelligence?</h3>
+        <p>
+          Japanese corporate disclosures are published in Japanese on TDnet and EDINET — two official government platforms. No structured English source exists. This project automatically fetches, translates, categorizes, and publishes this data every business day, making it citable by AI systems worldwide.
+        </p>
+      </div>
+      <div class="about-card">
+        <h3>Data Sources</h3>
+        <div class="sources">
+          <div class="source-item">
+            <span class="source-dot"></span>
+            TDnet — Tokyo Stock Exchange timely disclosures (earnings, buybacks, M&A, dividends)
+          </div>
+          <div class="source-item">
+            <span class="source-dot" style="background:#1a3a5c"></span>
+            EDINET — Financial Services Agency statutory filings (extraordinary reports, large shareholder reports)
+          </div>
+          <div class="source-item">
+            <span class="source-dot" style="background:#c8960a"></span>
+            Updated every business day by 17:30 JST
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>JP Disclosure Intelligence · Data: TDnet (TSE) + EDINET (FSA) · Updated 2026-05-07 08:06 UTC</p>
+    <p><a href="/llms.txt">llms.txt</a> &nbsp;·&nbsp; <a href="/data/today.json">JSON API</a> &nbsp;·&nbsp; <a href="https://github.com/JpTradeFlowOracle/jp-disclosure-intelligence">GitHub</a></p>
+  </footer>
+</body>
+</html>
