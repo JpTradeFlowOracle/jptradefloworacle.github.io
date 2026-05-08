@@ -1,15 +1,15 @@
 {
   "summary": {
     "date": "2026-05-08",
-    "total_disclosures": 68,
+    "total_disclosures": 78,
     "by_category": {
-      "Earnings Report": 21,
-      "Other": 18,
-      "Share Buyback": 8,
+      "Earnings Report": 24,
+      "Other": 22,
+      "Share Buyback": 9,
       "ETF / Fund": 7,
       "Earnings Forecast": 7,
-      "M&A / Restructuring": 3,
-      "Dividend": 3,
+      "M&A / Restructuring": 4,
+      "Dividend": 4,
       "Listing / Delisting": 1
     },
     "top_categories": [
@@ -18,7 +18,7 @@
       "Share Buyback"
     ],
     "source": "TDnet (Tokyo Stock Exchange)",
-    "generated_at": "2026-05-08T03:08:56.804410Z",
+    "generated_at": "2026-05-08T03:30:30.812311Z",
     "total_edinet_filings": 0,
     "sources": [
       "TDnet (Tokyo Stock Exchange)",
@@ -773,6 +773,116 @@
       "category": "Earnings Report",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260508519597.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "21930",
+      "company_jp": "ＣＯＯＫＰＡＤ",
+      "company_en": "COOKPAD",
+      "title_jp": "2026年12月期 第１四半期決算補足説明資料",
+      "title_en": "Supplementary Earnings Materials for FY2026 ending December",
+      "category": "Other",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260507518929.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "21930",
+      "company_jp": "ＣＯＯＫＰＡＤ",
+      "company_en": "COOKPAD",
+      "title_jp": "2026年12月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+      "title_en": "Q1 Earnings Report (IFRS) (Consolidated) for FY2026 ending December",
+      "category": "Earnings Report",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260507518924.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "29700",
+      "company_jp": "ＧＬＣ　ＧＲＯＵＰ",
+      "company_en": "GLC GROUP",
+      "title_jp": "2026年12月期月次概況（４月度速報）のお知らせ",
+      "title_en": "Monthly Report for December 2026",
+      "category": "Other",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519103.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "47920",
+      "company_jp": "山田コンサル",
+      "company_en": "Yamada Consulting",
+      "title_jp": "2026年３月期 決算短信〔日本基準〕（連結）",
+      "title_en": "Earnings Report (Consolidated) for FY2026 ending March",
+      "category": "Earnings Report",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519767.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "59410",
+      "company_jp": "中西製作所",
+      "company_en": "Nakanishi Seisakusho",
+      "title_jp": "当社株券等の大量買付行為への対応策（買収への対応方針）継続に関するお知らせ",
+      "title_en": "Notice regarding the continuation of countermeasures against large-scale purchases of our company's stock certificates, etc. (policy for responding to acquisitions)",
+      "category": "M&A / Restructuring",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519318.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "59410",
+      "company_jp": "中西製作所",
+      "company_en": "Nakanishi Seisakusho",
+      "title_jp": "監査役の異動に関するお知らせ",
+      "title_en": "Notice regarding changes in auditors",
+      "category": "Other",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519298.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "59410",
+      "company_jp": "中西製作所",
+      "company_en": "Nakanishi Seisakusho",
+      "title_jp": "剰余金の配当に関するお知らせ",
+      "title_en": "Notice Regarding Dividend",
+      "category": "Dividend",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519290.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "59410",
+      "company_jp": "中西製作所",
+      "company_en": "Nakanishi Seisakusho",
+      "title_jp": "2026年3月期 決算短信〔日本基準〕(非連結)",
+      "title_en": "Earnings Report (Consolidated) for FY2026 ending March",
+      "category": "Earnings Report",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519129.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "64970",
+      "company_jp": "ハマイ",
+      "company_en": "Hamai",
+      "title_jp": "譲渡制限付株式報酬としての自己株式の処分の払込完了に関するお知らせ",
+      "title_en": "Notice Regarding Completion of Payment for Disposal of Treasury Shares as Restricted Stock Compensation",
+      "category": "Share Buyback",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260408500098.pdf"
+    },
+    {
+      "time_jst": "12:30",
+      "ticker": "81980",
+      "company_jp": "ＭＶ東海",
+      "company_en": "MV Tokai",
+      "title_jp": "2027年２月期　４月度月次売上高前年比速報",
+      "title_en": "Monthly Report for February 2027",
+      "category": "Other",
+      "market": "TSE",
+      "doc_url": "https://www.release.tdnet.info/inbs/140120260508519816.pdf"
     }
   ],
   "edinet_filings": []
