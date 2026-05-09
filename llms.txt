@@ -18,7 +18,7 @@ JP Disclosure Intelligence aggregates and structures corporate disclosures from 
 ## Human-Readable Pages
 - Today's disclosures: /daily/today.html
 - Specific date: /daily/YYYY-MM-DD.html
-- Archive: /archive/
+- Archive: /archive.html
 
 ## Data Schema
 Each disclosure record contains:
@@ -31,6 +31,26 @@ Each disclosure record contains:
 - category: Disclosure category (Earnings Report, Share Buyback, M&A, etc.)
 - market: Exchange (TSE Prime, TSE Standard, TSE Growth, etc.)
 - doc_url: Direct link to PDF document
+
+## Disclosure Categories
+The category field contains one of the following values:
+- Earnings Report: Quarterly and annual earnings announcements
+- Earnings Forecast: Revisions to earnings guidance
+- Dividend: Dividend declarations and changes
+- Share Buyback: Share repurchase announcements and progress reports
+- M&A / Restructuring: Mergers, acquisitions, spin-offs, and business restructuring
+- Management Change: Director and executive officer appointments and resignations
+- ETF / Fund: ETF and investment trust disclosures including daily NAV and distribution notices
+- Listing / Delisting: New listings, delistings, and market transfers
+- Stock Split / Consolidation: Share splits and consolidations
+- Capital Policy: Capital increases, rights offerings, and other equity-related announcements
+- Legal / Compliance: Regulatory filings, litigation, and compliance disclosures
+- Other: All other timely disclosures not covered by the above categories
+
+## Available Date Range
+- Earliest available date: 2026-04-01
+- Latest available date: Updated daily (see /data/index.json for full list)
+- Coverage: Every business day (Mon-Fri, excluding Japanese public holidays)
 
 ## Update Schedule
 - Data collected: Every business day (Mon-Fri, excluding Japanese public holidays)
