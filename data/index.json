@@ -2,11 +2,11 @@
   "dates": [
     {
       "date": "2026-05-08",
-      "total": 68,
+      "total": 818,
       "top_categories": [
-        "Earnings Report",
         "Other",
-        "Share Buyback"
+        "Earnings Report",
+        "Earnings Forecast"
       ]
     },
     {
@@ -217,5 +217,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-08T07:06:53.927051Z"
+  "updated_at": "2026-05-09T05:47:23.705980Z"
 }
