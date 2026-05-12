@@ -20,7 +20,7 @@
       "Dividend"
     ],
     "source": "TDnet (Tokyo Stock Exchange)",
-    "generated_at": "2026-05-12T07:51:54.337042Z",
+    "generated_at": "2026-05-12T11:15:13.544785Z",
     "total_edinet_filings": 123,
     "sources": [
       "TDnet (Tokyo Stock Exchange)",
@@ -837,7 +837,7 @@
       "company_jp": "宮崎銀",
       "company_en": "Miyazaki Gin",
       "title_jp": "2027年3月期 配当予想（前期比増配）に関するお知らせ",
-      "title_en": "2027年3月期 配当予想(前期比増配)に関するお知らせ",
+      "title_en": "Notice regarding dividend forecast (dividend increase compared to the previous fiscal year) for the fiscal year ending March 2027",
       "category": "Dividend",
       "market": "TSE / FSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260512525111.pdf"
@@ -870,7 +870,7 @@
       "company_jp": "三洋堂ＨＤ",
       "company_en": "Sanyodo HD",
       "title_jp": "特別損失（減損損失）と法人税等調整額（損）の計上及び、連結業績予想と実績値との差異並びに個別業績の前期実績値との差異に関するお知らせ",
-      "title_en": "特別損失(減損損失)と法人税等調整額(損)の計上及び、連結業績予想と実績値との差異並びに個別業績の前期実績値との差異に関するお知らせ",
+      "title_en": "Notice regarding recording of extraordinary loss (impairment loss) and corporate tax adjustment (loss), differences between consolidated performance forecasts and actual results, and differences between individual performance results and previous fiscal year results",
       "category": "Earnings Forecast",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511523585.pdf"
@@ -914,7 +914,7 @@
       "company_jp": "旭化成",
       "company_en": "Asahi Kasei",
       "title_jp": "（参考資料）2030年度を目途とする水島製造所の一部誘導品事業の再構築について",
-      "title_en": "(参考資料)2030年度を目途とする水島製造所の一部誘導品事業の再構築について",
+      "title_en": "(Reference material) Restructuring of some derivatives business at Mizushima Plant aiming for fiscal 2030",
       "category": "Other",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511523225.pdf"
@@ -925,7 +925,7 @@
       "company_jp": "旭化成",
       "company_en": "Asahi Kasei",
       "title_jp": "2026年３月期剰余金の配当（増配）および2027年３月期配当予想に関するお知らせ",
-      "title_en": "2026年3月期剰余金の配当(増配)および2027年3月期配当予想に関するお知らせ",
+      "title_en": "Notice regarding dividend (increase) of surplus for the fiscal year ending March 2026 and dividend forecast for the fiscal year ending March 2027",
       "category": "Dividend",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511523273.pdf"
@@ -1090,7 +1090,7 @@
       "company_jp": "清水建",
       "company_en": "Ken Shimizu",
       "title_jp": "（変更）「代表取締役、取締役、執行役員の異動に関するお知らせ」の一部変更に関するお知らせ",
-      "title_en": "(変更)「代表取締役、取締役、執行役員の異動に関するお知らせ」の一部変更に関するお知らせ",
+      "title_en": "(Change) Notice regarding partial changes to \"Notice regarding changes in representative directors, directors, and executive officers\"",
       "category": "Management Change",
       "market": "TSE / NSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511523019.pdf"
@@ -1662,7 +1662,7 @@
       "company_jp": "川辺",
       "company_en": "riverside",
       "title_jp": "2026年３月期　個別経営成績の前事業年度実績値との差異に関するお知らせ",
-      "title_en": "2026年3月期 個別経営成績の前事業年度実績値との差異に関するお知らせ",
+      "title_en": "Notice regarding differences in individual business results for the fiscal year ending March 31, 2026 from the previous fiscal year results",
       "category": "Other",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511522904.pdf"
@@ -1717,7 +1717,7 @@
       "company_jp": "琉球銀",
       "company_en": "Ryukyu silver",
       "title_jp": "中期経営計画「Empower 2025」における財務指標の見直しに関するお知らせ",
-      "title_en": "中期経営計画「Empower 2025」における財務指標の見直しに関するお知らせ",
+      "title_en": "Notice regarding the review of financial indicators in the medium-term management plan “Empower 2025”",
       "category": "Other",
       "market": "TSE / FSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260511522089.pdf"
@@ -1737,7 +1737,7 @@
       "time_jst": "13:00",
       "ticker": "90270",
       "company_jp": "ロジネットＪ",
-      "company_en": "ロジネットJ",
+      "company_en": "Loginet J",
       "title_jp": "2026年３月期　決算説明資料",
       "title_en": "Earnings Presentation Materials for FY2026 ending March",
       "category": "Other",
@@ -2287,7 +2287,7 @@
       "time_jst": "14:00",
       "ticker": "18200",
       "company_jp": "西松建",
-      "company_en": "西松建",
+      "company_en": "Ken Nishimatsu",
       "title_jp": "『西松-Vision 2035』及び『中期経営計画2028』策定のお知らせ",
       "title_en": "Announcement of formulation of “Nishimatsu-Vision 2035” and “Mid-term Management Plan 2028”",
       "category": "Other",
@@ -8053,7 +8053,7 @@
       "company_jp": "西松屋チェ",
       "company_en": "Nishimatsuya Che",
       "title_jp": "当社株券等の大規模買付行為への対応方針（買収への対応方針）に基づく独立委員会の委員再任に関するお知らせ",
-      "title_en": "当社株券等の大規模買付行為への対応方針(買収への対応方針)に基づく独立委員会の委員再任に関するお知らせ",
+      "title_en": "Notice regarding reappointment of members of the independent committee based on the policy for responding to large-scale purchases of our stock certificates, etc. (policy for responding to acquisitions)",
       "category": "M&A / Restructuring",
       "market": "TSE",
       "doc_url": "https://www.release.tdnet.info/inbs/140120260512525580.pdf"
