@@ -1,10 +1,10 @@
 {
   "summary": {
     "date": "2026-05-13",
-    "total_filings": 39,
+    "total_filings": 42,
     "by_category": {
-      "Large Shareholder": 19,
-      "Share Buyback": 12,
+      "Large Shareholder": 20,
+      "Share Buyback": 14,
       "Extraordinary Report": 8
     },
     "top_categories": [
@@ -13,7 +13,7 @@
       "Extraordinary Report"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-05-13T01:37:48.668369Z"
+    "generated_at": "2026-05-13T01:53:13.316427Z"
   },
   "filings": [
     {
@@ -522,6 +522,45 @@
       "edinet_code": "E02778",
       "sec_code": "99840",
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y3F9"
+    },
+    {
+      "doc_id": "S100Y3GZ",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "株式会社日本政策投資銀行",
+      "company_en": "Development Bank of Japan, Inc.",
+      "description": "大量保有報告書",
+      "submitted_at": "2026-05-13 10:35",
+      "edinet_code": "E11701",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y3GZ"
+    },
+    {
+      "doc_id": "S100Y3H2",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "株式会社村田製作所",
+      "company_en": "Murata Manufacturing Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-05-13 10:38",
+      "edinet_code": "E01914",
+      "sec_code": "69810",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y3H2"
+    },
+    {
+      "doc_id": "S100Y383",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "株式会社マキタ",
+      "company_en": "Makita Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-05-13 10:43",
+      "edinet_code": "E01920",
+      "sec_code": "65860",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y383"
     }
   ]
 }
