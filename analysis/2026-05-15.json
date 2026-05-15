@@ -9,164 +9,36 @@
   "analyses": [
     {
       "company_en": "Kyokuyo Co., Ltd.",
-      "headline": "Kyokuyo abolishes its anti-takeover defense plan, effective June 2026.",
-      "summary": "Kyokuyo's board has decided to discontinue its existing anti-takeover measures, effective at its 2026 annual general meeting. This decision is driven by changes in the M&A landscape, improved governance guidelines, and enhanced dialogue with institutional investors, reflecting a broader trend in Japanese corporate governance.",
-      "significance": "This move signals a commitment to shareholder value and improved governance, potentially making the company more attractive to investors seeking M&A opportunities or advocating for capital efficiency.",
+      "headline": "Kyokuyo abolishes its anti-takeover defense, aligning with evolving governance standards.",
+      "summary": "Kyokuyo's board has resolved to discontinue its existing anti-takeover defense mechanism, effective at the conclusion of its upcoming annual general meeting. This decision reflects a comprehensive review considering changes in the social and economic environment, developments in M&A regulations, and enhanced dialogue with institutional investors, leading the company to conclude the current plan is no longer necessary.",
+      "significance": "This move signals Kyokuyo's commitment to modern corporate governance principles and a more open stance towards potential M&A activity. It aligns with broader market expectations for Japanese companies to dismantle such defenses, potentially enhancing investor confidence and market liquidity.",
       "key_facts": [
-        "The board decided on May 15, 2024, to abolish the current anti-takeover plan.",
-        "The existing plan was approved at the 100th Ordinary General Meeting of Shareholders on June 27, 2023.",
+        "Board resolved to abolish the current anti-takeover plan on May 15, 2026.",
         "Abolition will be effective at the conclusion of the 103rd Ordinary General Meeting of Shareholders, scheduled for June 24, 2026.",
-        "The company stated it would still consider appropriate measures, including new anti-takeover defenses, if corporate value or shareholder interests are threatened."
+        "The current anti-takeover plan was initially approved by shareholders on June 27, 2023."
       ],
-      "investor_takeaway": "Investors should view this as a positive step towards enhanced corporate governance and potential M&A activity, aligning with market expectations for Japanese companies.",
+      "investor_takeaway": "Investors should note this as a positive governance development, indicating a more shareholder-friendly approach and potentially increasing the company's attractiveness to a wider range of investors.",
       "company_jp": "極洋",
       "category": "M&A / Restructuring",
       "time_jst": "11:30"
     },
     {
-      "company_en": "Remixpoint, Inc.",
-      "headline": "Remixpoint to spin off energy retail business into wholly-owned subsidiary for enhanced agility.",
-      "summary": "Remixpoint will execute an absorption-type company split, transferring its energy retail business to a newly established, wholly-owned subsidiary by October 1, 2026. This strategic move aims to clarify management responsibility, accelerate decision-making, and improve risk management within the energy segment, particularly in response to volatile market conditions. The restructuring is also intended to enhance operational flexibility and potentially facilitate future M&A activities for portfolio optimization.",
-      "significance": "This internal reorganization signals Remixpoint's intent to streamline its diverse operations, allowing the core energy retail business to operate with greater autonomy and focus, which could improve its competitive positioning and growth prospects in a dynamic market.",
+      "company_en": "DIJET Industrial Co., Ltd.",
+      "headline": "DIJET renews anti-takeover defense, enhancing shareholder protection and governance.",
+      "summary": "DIJET Industrial has decided to continue its anti-takeover defense policy, subject to shareholder approval at the upcoming 100th Annual General Meeting in June 2026. The updated plan includes minor revisions to the scope of target share purchases and criteria for identifying concerted actions, aiming to ensure fair value and sufficient time for shareholders to evaluate any large-scale acquisition proposals. The company emphasizes its alignment with recent corporate governance codes and guidelines.",
+      "significance": "This renewal signals DIJET's proactive stance on corporate governance and shareholder protection, potentially deterring opportunistic bids while ensuring a structured process for evaluating legitimate offers. The explicit rejection of dead-hand/slow-hand provisions reinforces its commitment to shareholder will.",
       "key_facts": [
-        "The absorption-type split is scheduled to become effective on October 1, 2026.",
-        "The energy retail business to be transferred generated JPY 21,092 million in revenue for the fiscal year ended March 2026.",
-        "The successor company will be a wholly-owned subsidiary, resulting in no change to Remixpoint's consolidated capital.",
-        "The split business holds JPY 4,673 million in assets and JPY 2,388 million in liabilities as of March 31, 2026."
+        "The anti-takeover policy, originally introduced in 2008, will be renewed for another three years, pending shareholder approval in June 2026.",
+        "The plan's threshold for a 'large-scale purchase' remains at 20% or more of voting rights.",
+        "Key revisions include adjustments to the scope of target share purchases and criteria for identifying joint/concerted actions.",
+        "The Board of Directors unanimously approved the continuation, including all Audit & Supervisory Committee members.",
+        "No large-scale purchase proposals have been received by the company as of the filing date."
       ],
-      "investor_takeaway": "Investors should monitor how this clearer operational structure impacts the performance and strategic direction of both the energy retail business and Remixpoint's remaining segments, especially given the company's current loss-making status.",
-      "company_jp": "ＲＥＭＩＸ",
+      "investor_takeaway": "Investors should note DIJET's continued commitment to robust governance and its readiness to protect shareholder interests against potentially coercive takeovers, while maintaining flexibility for legitimate offers.",
+      "company_jp": "ダイジェット",
       "category": "M&A / Restructuring",
-      "time_jst": "12:00"
-    },
-    {
-      "company_en": "Sophia Holdings",
-      "headline": "Sophia Holdings proposes board changes, including a new internal director.",
-      "summary": "The company has outlined its proposed executive appointments, pending shareholder approval at the upcoming general meeting in late June. These changes involve the addition of an existing executive officer to the board, while the current President and two outside directors are slated to continue in their roles. This represents a modest adjustment to the board's composition.",
-      "significance": "This governance update indicates a strategic move to integrate an internal executive's operational perspective directly onto the board, potentially streamlining decision-making. The continuity of key leadership suggests stability in the company's strategic direction.",
-      "key_facts": [
-        "The proposed executive appointments are scheduled for formal approval on June 26, 2026.",
-        "An internal executive officer is nominated to join the board as a Director.",
-        "One current Director is set to retire from the board.",
-        "The Representative Director and President, along with two Outside Directors, are proposed to retain their positions."
-      ],
-      "investor_takeaway": "Investors should observe this minor board refreshment as an internal governance optimization rather than an indication of a significant strategic pivot.",
-      "company_jp": "ソフィアＨＤ",
-      "category": "Management Change",
-      "time_jst": "11:30"
-    },
-    {
-      "company_en": "Daido Steel Co., Ltd.",
-      "headline": "Daido Steel revises board changes, adding an outside director's retirement and a new appointment.",
-      "summary": "Daido Steel has updated its previously announced board changes, now including the retirement of an additional outside director due to term completion. This adjustment is accompanied by the proposed appointment of a new outside director, ensuring the board's independent oversight capacity remains robust.",
-      "significance": "The revised board composition maintains a consistent level of independent directorship, signaling the company's commitment to strong governance practices amidst leadership transitions.",
-      "key_facts": [
-        "An outside director is scheduled to retire in late June 2026.",
-        "A new outside director has been proposed for appointment.",
-        "This announcement modifies a prior disclosure from February 24, 2026."
-      ],
-      "investor_takeaway": "Investors should observe the company's ongoing efforts to refresh its board while preserving independent governance.",
-      "company_jp": "大同特鋼",
-      "category": "Management Change",
-      "time_jst": "11:40"
-    },
-    {
-      "company_en": "Remixpoint, Inc.",
-      "headline": "Remixpoint appoints new director for digital assets, energy division head departs for spin-off.",
-      "summary": "Remixpoint is proposing a new director to specifically oversee its digital asset management operations, signaling a strategic focus on this growth area. Concurrently, the current director leading the energy business will depart to head a newly formed entity resulting from a company split, indicating a strategic realignment of the energy segment. The CEO and other key directors are slated for reappointment, maintaining leadership continuity.",
-      "significance": "This move underscores a strategic commitment to expanding digital asset capabilities, leveraging the new director's financial and blockchain expertise. The energy division's restructuring via a spin-off suggests an effort to optimize its operations or unlock value independently.",
-      "key_facts": [
-        "Five director candidates are proposed for the upcoming general meeting.",
-        "Harada Hiroshi is a new director candidate, designated to manage digital asset operations.",
-        "Nakagomi Yuji, the current energy business director, will retire from the board.",
-        "The proposed changes are effective June 25, 2026, subject to shareholder approval.",
-        "Harada Hiroshi's background includes experience as a CPA, tax accountant, and leadership roles at Jasmy Inc."
-      ],
-      "investor_takeaway": "Investors should monitor the execution of the digital asset strategy and the performance of the newly independent energy entity following these leadership and structural changes.",
-      "company_jp": "ＲＥＭＩＸ",
-      "category": "Management Change",
-      "time_jst": "12:00"
-    },
-    {
-      "company_en": "Tsukamoto Corporation",
-      "headline": "Tsukamoto Corporation appoints new President and Senior Managing Director.",
-      "summary": "Tsukamoto Corporation announced a leadership transition, appointing a new President and a new Representative Director & Senior Managing Director, effective June 25, 2026, pending shareholder approval. This move is intended to establish a new management structure, fortify the business foundation, and accelerate the execution of its mid-term business plan to enhance corporate value.",
-      "significance": "The internal promotions of experienced executives, including the current Vice President to President, suggest a strategic refresh aimed at driving the company's mid-term vision. This leadership change could signal a renewed focus on operational efficiency and growth across its core business segments.",
-      "key_facts": [
-        "Mr. Tanaka Fumito, currently Representative Director & Vice President, is nominated as the new Representative Director & President.",
-        "Mr. Nishimura Takashi, currently Managing Director, is nominated as the new Representative Director & Senior Managing Director.",
-        "The current Representative Director & President, Mr. Momose Jiro, will retire from the board and transition to an advisory role.",
-        "An outside auditor, Mr. Yoshida Tami, is nominated, replacing a retiring outside auditor.",
-        "These changes are slated for approval at the 107th Ordinary General Meeting of Shareholders on June 25, 2026."
-      ],
-      "investor_takeaway": "Investors should observe how the new leadership team implements the company's strategic initiatives and aims to deliver on its stated goal of enhancing corporate value.",
-      "company_jp": "ツカモト",
-      "category": "Management Change",
-      "time_jst": "12:00"
-    },
-    {
-      "company_en": "Toho Bank, Ltd.",
-      "headline": "Toho Bank announces new outside director appointments, enhancing governance and regional ties.",
-      "summary": "The bank has nominated two new outside directors, including a former Fukushima Prefectural Vice Governor and a legal professional, for approval at its upcoming shareholder meeting. These appointments aim to bolster independent oversight and leverage deep regional expertise, aligning with the bank's strategic focus on local economic development and robust governance.",
-      "significance": "These changes underscore the bank's commitment to strengthening its board's independence and strategic capabilities, particularly in navigating regional economic dynamics and ensuring strong legal and compliance frameworks.",
-      "key_facts": [
-        "Two new outside director candidates were nominated on May 15, 2026.",
-        "One candidate, a former Fukushima Prefectural Vice Governor, is proposed as an outside director.",
-        "Another candidate, a lawyer, is proposed as an outside director serving on the Audit & Supervisory Committee.",
-        "These appointments are slated for formal approval at the shareholder meeting on June 26, 2026."
-      ],
-      "investor_takeaway": "Investors should view these appointments as a positive signal for enhanced corporate governance and strategic alignment with the bank's regional operational context.",
-      "company_jp": "東邦銀",
-      "category": "Management Change",
-      "time_jst": "12:00"
-    },
-    {
-      "company_en": "Toyo Suisan Kaisha, Ltd.",
-      "headline": "Chairman to transition from representative director role, strengthening management.",
-      "summary": "Toyo Suisan announced a leadership transition where its current Representative Director and Chairman will move to a Director and Advisor role. This change is explicitly stated to further strengthen the company's management structure.",
-      "significance": "This move suggests a strategic evolution in governance, potentially empowering the current President or a new leadership generation while retaining experienced counsel. It aligns with broader Japanese corporate governance trends emphasizing clearer executive responsibilities and succession planning.",
-      "key_facts": [
-        "Tsutsumi Minoru will transition from his role as Representative Director and Chairman.",
-        "His new position will be Director and Advisor.",
-        "The change is scheduled to take effect on June 25, 2026."
-      ],
-      "investor_takeaway": "Investors should observe subsequent executive appointments and any strategic adjustments under the refined leadership structure for insights into future corporate direction.",
-      "company_jp": "東洋水産",
-      "category": "Management Change",
-      "time_jst": "12:20"
-    },
-    {
-      "company_en": "Fidea Holdings Co., Ltd.",
-      "headline": "Fidea Holdings maintains board stability with a new sustainability committee chair.",
-      "summary": "Fidea Holdings announced its post-annual general meeting board and committee structure, effective late June 2026, largely maintaining continuity in leadership. A notable change is the appointment of a new chairperson for the voluntary Sustainability Committee, suggesting an evolving strategic emphasis on environmental, social, and governance factors.",
-      "significance": "The stability in core governance, combined with a specific leadership change in sustainability, indicates a consistent strategic direction while adapting to growing investor expectations for ESG integration.",
-      "key_facts": [
-        "The board will comprise 12 directors, with 7 independent outside directors, maintaining a robust independent majority.",
-        "One outside director will retire from the board.",
-        "A new chairperson has been appointed to lead the voluntary Sustainability Committee.",
-        "Chairs for the statutory Nomination, Audit, and Remuneration Committees have been reappointed, ensuring governance continuity."
-      ],
-      "investor_takeaway": "Investors should observe the stable core governance and the strengthened leadership in sustainability, reflecting a sustained commitment to robust oversight and ESG integration.",
-      "company_jp": "フィデアＨＤ",
-      "category": "Management Change",
-      "time_jst": "12:30"
-    },
-    {
-      "company_en": "Hiraki Co., Ltd.",
-      "headline": "Hiraki misses full-year earnings forecast due to mail-order underperformance.",
-      "summary": "Hiraki Co., Ltd. reported full-year results significantly below its previous forecast for the fiscal year ended March 2026. While its store-based shoe sales performed as expected, the mail-order business underperformed due to weak promotional product sales and the impact of a warm winter on seasonal goods. This led to a substantial decline in profitability across all levels, exacerbated by a special impairment loss.",
-      "significance": "The persistent struggles in the higher-margin mail-order segment, despite efforts to boost sales, highlight a strategic challenge for the company's overall profitability and growth trajectory.",
-      "key_facts": [
-        "Full-year revenue of ¥11,895 million was 2.5% below the ¥12,200 million forecast.",
-        "Net loss attributable to owners of parent widened to ¥426 million, significantly worse than the ¥310 million forecast.",
-        "Operating profit also fell short, recording a loss of ¥320 million against a forecast loss of ¥250 million.",
-        "A special impairment loss of ¥23 million was recorded in the mail-order business."
-      ],
-      "investor_takeaway": "Investors should monitor the company's strategy for revitalizing its mail-order business and improving overall profitability amidst challenging market conditions.",
-      "company_jp": "ヒラキ",
-      "category": "Earnings Forecast",
-      "time_jst": "09:00"
+      "time_jst": "13:00"
     }
   ],
-  "generated_at": "2026-05-15T03:49:44.087350Z"
+  "generated_at": "2026-05-15T04:36:20.162122Z"
 }

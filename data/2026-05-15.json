@@ -1,11 +1,11 @@
 {
   "summary": {
     "date": "2026-05-15",
-    "total_filings": 73,
+    "total_filings": 77,
     "by_category": {
       "Share Buyback": 34,
-      "Extraordinary Report": 27,
-      "Large Shareholder": 12
+      "Extraordinary Report": 29,
+      "Large Shareholder": 14
     },
     "top_categories": [
       "Share Buyback",
@@ -13,7 +13,7 @@
       "Large Shareholder"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-05-15T03:46:05.028704Z"
+    "generated_at": "2026-05-15T04:36:20.576114Z"
   },
   "filings": [
     {
@@ -880,7 +880,7 @@
       "doc_type_code": "180",
       "category": "Extraordinary Report",
       "company_jp": "株式会社大日光・エンジニアリング",
-      "company_en": "株式会社大日光・エンジニアリング",
+      "company_en": "Dainikko Engineering Co., Ltd.",
       "description": "臨時報告書",
       "submitted_at": "2026-05-15 12:00",
       "edinet_code": "E02116",
@@ -964,6 +964,58 @@
       "edinet_code": "E25682",
       "sec_code": "36530",
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y47L"
+    },
+    {
+      "doc_id": "S100Y45H",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "Ｖｉｔａｌｙ　Ｂｅｚｒｏｄｎｙｋｈ",
+      "company_en": "Vitaly Bezrodnykh",
+      "description": "変更報告書",
+      "submitted_at": "2026-05-15 12:31",
+      "edinet_code": "E41861",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y45H"
+    },
+    {
+      "doc_id": "S100Y425",
+      "doc_type": "Amendment to Extraordinary Report",
+      "doc_type_code": "190",
+      "category": "Extraordinary Report",
+      "company_jp": "いすゞ自動車株式会社",
+      "company_en": "Isuzu Motors Co., Ltd.",
+      "description": "訂正臨時報告書",
+      "submitted_at": "2026-05-15 12:41",
+      "edinet_code": "E02143",
+      "sec_code": "72020",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y425"
+    },
+    {
+      "doc_id": "S100Y3RV",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "山本裕治",
+      "company_en": "Yuji Yamamoto",
+      "description": "大量保有報告書",
+      "submitted_at": "2026-05-15 12:41",
+      "edinet_code": "E41330",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y3RV"
+    },
+    {
+      "doc_id": "S100Y4D5",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社ＮＥＸＹＺ．Ｇｒｏｕｐ",
+      "company_en": "NEXYZ.Group Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-05-15 12:45",
+      "edinet_code": "E05268",
+      "sec_code": "43460",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y4D5"
     }
   ]
 }
