@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-05-22",
+      "top_themes": [
+        "Internal Corporate Restructuring",
+        "Operational Efficiency Enhancement",
+        "Strategic Business Realignment"
+      ],
+      "filing_count": 5
+    },
+    {
       "date": "2026-05-15",
       "top_themes": [],
       "filing_count": 10
@@ -24,5 +33,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-05-15T03:49:44.108722Z"
+  "updated_at": "2026-05-23T10:17:30.141720Z"
 }
