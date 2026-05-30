@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-05-29",
+      "top_themes": [
+        "Corporate Governance & Shareholder Protection",
+        "Strategic M&A and Business Integration",
+        "Operational Optimization and Efficiency"
+      ],
+      "filing_count": 5
+    },
+    {
       "date": "2026-05-22",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -33,5 +42,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-05-23T10:17:30.141720Z"
+  "updated_at": "2026-05-30T11:03:06.927734Z"
 }
