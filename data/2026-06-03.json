@@ -1,11 +1,11 @@
 {
   "summary": {
     "date": "2026-06-03",
-    "total_filings": 64,
+    "total_filings": 70,
     "by_category": {
-      "Extraordinary Report": 28,
+      "Extraordinary Report": 30,
       "Share Buyback": 22,
-      "Large Shareholder": 14
+      "Large Shareholder": 18
     },
     "top_categories": [
       "Extraordinary Report",
@@ -13,7 +13,7 @@
       "Large Shareholder"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-06-03T04:16:36.079828Z"
+    "generated_at": "2026-06-03T04:59:36.043438Z"
   },
   "filings": [
     {
@@ -847,6 +847,84 @@
       "edinet_code": "E01739",
       "sec_code": "65030",
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y7TP"
+    },
+    {
+      "doc_id": "S100Y80J",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "ＹＣＰホールディングス（グローバル）リミテッド",
+      "company_en": "YCP Holdings (Global) Limited",
+      "description": "臨時報告書",
+      "submitted_at": "2026-06-03 13:09",
+      "edinet_code": "E37220",
+      "sec_code": "92570",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y80J"
+    },
+    {
+      "doc_id": "S100Y77M",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "エスケー興産株式会社",
+      "company_en": "SK Kosan Co., Ltd.",
+      "description": "変更報告書",
+      "submitted_at": "2026-06-03 13:17",
+      "edinet_code": "E34323",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y77M"
+    },
+    {
+      "doc_id": "S100Y77V",
+      "doc_type": "Amendment to Large Shareholder Report",
+      "doc_type_code": "360",
+      "category": "Large Shareholder",
+      "company_jp": "エスケー興産株式会社",
+      "company_en": "SK Kosan Co., Ltd.",
+      "description": "訂正報告書（大量保有報告書・変更報告書）",
+      "submitted_at": "2026-06-03 13:17",
+      "edinet_code": "E34323",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y77V"
+    },
+    {
+      "doc_id": "S100Y856",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "株式会社ＹＣＰ　Ｊａｐａｎ",
+      "company_en": "YCP Japan Co., Ltd.",
+      "description": "大量保有報告書",
+      "submitted_at": "2026-06-03 13:30",
+      "edinet_code": "E41928",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y856"
+    },
+    {
+      "doc_id": "S100Y8D8",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社アーレスティ",
+      "company_en": "Ahresty Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-06-03 13:35",
+      "edinet_code": "E01303",
+      "sec_code": "58520",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8D8"
+    },
+    {
+      "doc_id": "S100Y89U",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "Ｅｖｏ　Ｆｕｎｄ",
+      "company_en": "Evo Fund",
+      "description": "変更報告書",
+      "submitted_at": "2026-06-03 13:43",
+      "edinet_code": "E11943",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y89U"
     }
   ]
 }
