@@ -1,19 +1,19 @@
 {
   "summary": {
     "date": "2026-06-03",
-    "total_filings": 71,
+    "total_filings": 84,
     "by_category": {
-      "Extraordinary Report": 30,
-      "Share Buyback": 22,
-      "Large Shareholder": 19
+      "Extraordinary Report": 32,
+      "Large Shareholder": 27,
+      "Share Buyback": 25
     },
     "top_categories": [
       "Extraordinary Report",
-      "Share Buyback",
-      "Large Shareholder"
+      "Large Shareholder",
+      "Share Buyback"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-06-03T05:01:15.530375Z"
+    "generated_at": "2026-06-03T05:38:52.944002Z"
   },
   "filings": [
     {
@@ -938,6 +938,175 @@
       "edinet_code": "E38733",
       "sec_code": null,
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8CZ"
+    },
+    {
+      "doc_id": "S100Y81H",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "株式会社　クボタ",
+      "company_en": "Kubota Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-06-03 14:00",
+      "edinet_code": "E01267",
+      "sec_code": "63260",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y81H"
+    },
+    {
+      "doc_id": "S100Y89V",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "日亜鋼業株式会社",
+      "company_en": "Nichia Steel Works Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-06-03 14:00",
+      "edinet_code": "E01287",
+      "sec_code": "56580",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y89V"
+    },
+    {
+      "doc_id": "S100Y8D6",
+      "doc_type": "Amendment to Large Shareholder Report",
+      "doc_type_code": "360",
+      "category": "Large Shareholder",
+      "company_jp": "山田　のどか",
+      "company_en": "Nodoka Yamada",
+      "description": "訂正報告書（大量保有報告書・変更報告書）",
+      "submitted_at": "2026-06-03 14:00",
+      "edinet_code": "E38733",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8D6"
+    },
+    {
+      "doc_id": "S100Y8BK",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社安川電機",
+      "company_en": "Yaskawa Electric Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-06-03 14:06",
+      "edinet_code": "E01741",
+      "sec_code": "65060",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8BK"
+    },
+    {
+      "doc_id": "S100Y7WT",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "ＳＯＭＰＯホールディングス株式会社",
+      "company_en": "Sompo Holdings Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-06-03 14:08",
+      "edinet_code": "E23924",
+      "sec_code": "86300",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y7WT"
+    },
+    {
+      "doc_id": "S100Y87D",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "重松　路威",
+      "company_en": "Michitake Shigematsu",
+      "description": "大量保有報告書",
+      "submitted_at": "2026-06-03 14:09",
+      "edinet_code": "E35878",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y87D"
+    },
+    {
+      "doc_id": "S100Y8DA",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "変更報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DA"
+    },
+    {
+      "doc_id": "S100Y8DO",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "変更報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DO"
+    },
+    {
+      "doc_id": "S100Y8DP",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "大量保有報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DP"
+    },
+    {
+      "doc_id": "S100Y8DQ",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "変更報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DQ"
+    },
+    {
+      "doc_id": "S100Y8DS",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "変更報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DS"
+    },
+    {
+      "doc_id": "S100Y8DV",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "野村證券株式会社",
+      "company_en": "Nomura Securities Co., Ltd.",
+      "description": "変更報告書（特例対象株券等）",
+      "submitted_at": "2026-06-03 14:10",
+      "edinet_code": "E03810",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DV"
+    },
+    {
+      "doc_id": "S100Y8DM",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "琉球セメント株式会社",
+      "company_en": "Ryukyu Cement Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-06-03 14:13",
+      "edinet_code": "E01191",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8DM"
     }
   ]
 }
