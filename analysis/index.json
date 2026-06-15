@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-15",
+      "top_themes": [
+        "Strategic Privatization and M&A",
+        "Asset Management Fund Performance and Distributions",
+        "Private Equity-backed Acquisitions"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-12",
       "top_themes": [
         "Capital Management & Shareholder Returns",
@@ -97,5 +106,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-13T11:04:04.595699Z"
+  "updated_at": "2026-06-15T09:24:36.980206Z"
 }
