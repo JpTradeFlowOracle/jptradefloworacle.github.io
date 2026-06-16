@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-16",
+      "top_themes": [
+        "Strategic M&A and Consolidation",
+        "Asset Management Performance and Transparency",
+        "Impact of Currency Hedging on Fund Returns"
+      ],
+      "filing_count": 4
+    },
+    {
       "date": "2026-06-15",
       "top_themes": [
         "Strategic Privatization and M&A",
@@ -106,5 +115,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-15T09:24:36.980206Z"
+  "updated_at": "2026-06-16T08:08:42.642125Z"
 }
