@@ -1,10 +1,10 @@
 {
   "summary": {
     "date": "2026-06-16",
-    "total_filings": 144,
+    "total_filings": 146,
     "by_category": {
-      "Large Shareholder": 114,
-      "Extraordinary Report": 21,
+      "Large Shareholder": 115,
+      "Extraordinary Report": 22,
       "Share Buyback": 6,
       "Tender Offer (TOB)": 2,
       "Parent Company Report": 1
@@ -15,7 +15,7 @@
       "Share Buyback"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-06-16T08:05:12.526970Z"
+    "generated_at": "2026-06-16T11:31:33.084120Z"
   },
   "filings": [
     {
@@ -1889,6 +1889,32 @@
       "edinet_code": "E34394",
       "sec_code": null,
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100Y8WY"
+    },
+    {
+      "doc_id": "S100YCRW",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "山本裕治",
+      "company_en": "Yuji Yamamoto",
+      "description": "変更報告書",
+      "submitted_at": "2026-06-16 17:05",
+      "edinet_code": "E41330",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YCRW"
+    },
+    {
+      "doc_id": "S100YCR1",
+      "doc_type": "Amendment to Extraordinary Report",
+      "doc_type_code": "190",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社エコム",
+      "company_en": "Ecocom Co., Ltd.",
+      "description": "訂正臨時報告書",
+      "submitted_at": "2026-06-16 17:13",
+      "edinet_code": "E38483",
+      "sec_code": "62250",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YCR1"
     }
   ]
 }
