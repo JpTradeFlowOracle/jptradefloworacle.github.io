@@ -37,6 +37,33 @@
       ]
     },
     {
+      "date": "2026-06-10",
+      "total": 218,
+      "top_categories": [
+        "Large Shareholder",
+        "Share Buyback",
+        "Extraordinary Report"
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "total": 177,
+      "top_categories": [
+        "Large Shareholder",
+        "Extraordinary Report",
+        "Share Buyback"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "total": 172,
+      "top_categories": [
+        "Large Shareholder",
+        "Share Buyback",
+        "Extraordinary Report"
+      ]
+    },
+    {
       "date": "2026-06-05",
       "total": 349,
       "top_categories": [
@@ -144,6 +171,33 @@
       ]
     },
     {
+      "date": "2026-05-20",
+      "total": 142,
+      "top_categories": [
+        "Extraordinary Report",
+        "Large Shareholder",
+        "Parent Company Report"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "total": 110,
+      "top_categories": [
+        "Large Shareholder",
+        "Extraordinary Report",
+        "Tender Offer (TOB)"
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "total": 112,
+      "top_categories": [
+        "Extraordinary Report",
+        "Large Shareholder",
+        "Share Buyback"
+      ]
+    },
+    {
       "date": "2026-05-15",
       "total": 73,
       "top_categories": [
@@ -190,8 +244,12 @@
     },
     {
       "date": "2026-05-08",
-      "total": 0,
-      "top_categories": []
+      "total": 183,
+      "top_categories": [
+        "Large Shareholder",
+        "Share Buyback",
+        "Extraordinary Report"
+      ]
     },
     {
       "date": "2026-05-07",
@@ -201,7 +259,28 @@
         "Extraordinary Report",
         "Share Buyback"
       ]
+    },
+    {
+      "date": "2026-05-01",
+      "total": 48,
+      "top_categories": [
+        "Extraordinary Report"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "total": 110,
+      "top_categories": [
+        "Extraordinary Report"
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "total": 40,
+      "top_categories": [
+        "Extraordinary Report"
+      ]
     }
   ],
-  "updated_at": "2026-06-16T11:31:33.117003Z"
+  "updated_at": "2026-06-16T21:04:54.541289Z"
 }

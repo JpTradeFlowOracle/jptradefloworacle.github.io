@@ -15,7 +15,7 @@
       "name": "Japan EDINET Corporate Filings — May 11, 2026",
       "description": "Structured English-language summary of 182 Japanese corporate filings submitted to EDINET on May 11, 2026.",
       "datePublished": "2026-05-11",
-      "dateModified": "2026-05-13T01:29:29Z",
+      "dateModified": "2026-06-16T21:04:41Z",
       "inLanguage": "en",
       "publisher": {
         "@type": "Organization",
@@ -70,7 +70,7 @@
       "@type": "NewsArticle",
       "headline": "Japan EDINET Filings — May 11, 2026: 182 Submissions",
       "datePublished": "2026-05-11",
-      "dateModified": "2026-05-13T01:29:29Z",
+      "dateModified": "2026-06-16T21:04:41Z",
       "author": {
         "@type": "Organization",
         "name": "JP Disclosure Intelligence"
@@ -207,6 +207,60 @@
       font-size: 0.82rem; color: var(--ink-2); line-height: 1.7;
     }
     .analysis-note a { color: var(--accent-2); }
+    .ai-analysis-section { margin-bottom: 40px; }
+    .section-header-row { display: flex; align-items: baseline; gap: 16px; margin-bottom: 24px; }
+    .section-header-row h2 { font-family: var(--display); font-size: 1.3rem; font-weight: 700; white-space: nowrap; }
+    .section-line { flex: 1; height: 1px; background: var(--paper-2); }
+    .market-briefing-block {
+      background: var(--ink); color: var(--paper);
+      border-radius: 4px; padding: 28px 32px; margin-bottom: 24px;
+      position: relative; overflow: hidden;
+    }
+    .market-briefing-block::after {
+      content: ''; position: absolute; bottom: 0; left: 0;
+      width: 100%; height: 2px;
+      background: linear-gradient(90deg, var(--accent), var(--gold), transparent);
+    }
+    .briefing-text { font-size: 0.95rem; line-height: 1.7; margin-bottom: 10px; }
+    .briefing-observations { font-size: 0.85rem; line-height: 1.7; color: rgba(245,244,240,0.65); margin-bottom: 16px; }
+    .analysis-themes { display: flex; flex-wrap: wrap; gap: 8px; }
+    .analysis-theme-tag {
+      font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.08em;
+      padding: 4px 12px; border: 1px solid rgba(245,244,240,0.2);
+      border-radius: 2px; color: rgba(245,244,240,0.7);
+    }
+    .analysis-cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; }
+    .analysis-card {
+      background: white; border: 1px solid var(--paper-2);
+      border-radius: 4px; padding: 24px;
+    }
+    .analysis-card-header { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+    .analysis-category {
+      font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--accent);
+    }
+    .analysis-company { font-family: var(--display); font-size: 0.95rem; font-weight: 700; }
+    .analysis-headline { font-size: 1rem; font-weight: 600; line-height: 1.4; margin-bottom: 10px; color: var(--ink); }
+    .analysis-summary { font-size: 0.85rem; line-height: 1.7; color: var(--ink-2); margin-bottom: 8px; }
+    .analysis-significance { font-size: 0.82rem; line-height: 1.6; color: var(--ink-3); margin-bottom: 14px; }
+    .analysis-facts {
+      list-style: none; padding: 12px 16px; background: var(--paper);
+      border-radius: 3px; margin-bottom: 14px; display: flex; flex-direction: column; gap: 5px;
+    }
+    .analysis-facts li {
+      font-size: 0.8rem; color: var(--ink-2); line-height: 1.5;
+      padding-left: 14px; position: relative;
+    }
+    .analysis-facts li::before { content: '·'; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+    .analysis-takeaway {
+      font-size: 0.82rem; line-height: 1.6; color: var(--ink-2);
+      border-top: 1px solid var(--paper-2); padding-top: 12px;
+    }
+    .takeaway-label {
+      font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--gold);
+      display: block; margin-bottom: 4px;
+    }
     footer {
       background: var(--ink); color: rgba(245,244,240,0.4);
       padding: 32px 48px; display: flex; justify-content: space-between;
@@ -275,6 +329,7 @@
           <p>EDINET (Electronic Disclosure for Investors NETwork) is the official disclosure platform operated by Japan's Financial Services Agency. It contains mandatory filings including tender offers, large shareholder reports (5%+ ownership changes), extraordinary reports, and share buyback disclosures. JP Disclosure Intelligence structures and translates this data into English daily.</p>
         </div>
     </div>
+    
     
         <section class="cat-section">
           <h2>🏦 Large Shareholder <span class="count">102</span></h2>
@@ -1596,7 +1651,7 @@
     </div>
   </div>
   <footer>
-    <p>JP Disclosure Intelligence · EDINET (Financial Services Agency of Japan) · 2026-05-13 01:29 UTC</p>
+    <p>JP Disclosure Intelligence · EDINET (Financial Services Agency of Japan) · 2026-06-16 21:04 UTC</p>
     <p><a href="../llms.txt">llms.txt</a> · <a href="../data/today.json">JSON API</a> · <a href="https://github.com/JpTradeFlowOracle/jp-disclosure-intelligence">GitHub</a></p>
   </footer>
 </body>
