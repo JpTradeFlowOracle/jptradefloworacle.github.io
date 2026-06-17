@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-17",
+  "summary": {
+    "market_briefing": "",
+    "top_themes": [],
+    "sector_observations": "",
+    "notable_developments": ""
+  },
+  "analyses": [
+    {
+      "company_en": "PostPrime Inc.",
+      "headline": "PostPrime acquires M&A brokerage firm Infinity Life, entering new growth domain.",
+      "summary": "PostPrime, operator of the financial and economic information platform \"PostPrime,\" is acquiring Infinity Life, an M&A and real estate brokerage firm, making it a wholly-owned subsidiary. This strategic move marks PostPrime's entry into the M&A brokerage sector, leveraging its existing user base to offer practical, value-added services beyond information provision. The acquisition aims to establish a dual revenue stream and capitalize on the growing demand for business succession M&A in Japan.",
+      "significance": "This acquisition diversifies PostPrime's business model beyond content and advertising, tapping into the structurally growing Japanese business succession M&A market. It enhances user monetization by converting platform engagement into transactional services, potentially improving PostPrime's overall revenue stability and growth trajectory.",
+      "key_facts": [
+        "PostPrime decided to acquire 100% of Infinity Life's shares on June 17, 2026, with a planned execution date of July 1, 2026.",
+        "The total acquisition cost is JPY 105 million, comprising JPY 100 million for shares and JPY 5 million for advisory fees.",
+        "Infinity Life reported JPY 129 million in revenue and JPY 24 million in ordinary profit for the fiscal year ended March 2025.",
+        "PostPrime's SNS platform currently boasts approximately 430,000 users, which will serve as a channel for M&A deal sourcing."
+      ],
+      "investor_takeaway": "Investors should note PostPrime's strategic pivot to diversify revenue streams and capitalize on the growing M&A brokerage market, potentially improving monetization of its existing user base and enhancing long-term growth prospects.",
+      "company_jp": "Ｇ－ポストプライム",
+      "category": "M&A / Restructuring",
+      "time_jst": "12:00"
+    },
+    {
+      "company_en": "eWeLL Inc.",
+      "headline": "CEO-related entity increases stake in eWeLL, crossing 5% ownership threshold.",
+      "summary": "An entity associated with eWeLL's CEO has acquired additional shares from the CEO, bringing its total ownership to 5.64%. This transaction is classified under regulations governing significant share accumulations, signaling a consolidation of control by the CEO's related party.",
+      "significance": "This move enhances the stability of the company's shareholding structure by strengthening the CEO's influence through a dedicated entity, potentially impacting future strategic decisions and governance.",
+      "key_facts": [
+        "iBow Inc., an entity related to eWeLL's CEO, acquired 60,000 shares.",
+        "The acquisition increases iBow Inc.'s total holding to 860,000 shares.",
+        "Post-acquisition, iBow Inc. holds 5.64% of eWeLL's total voting rights.",
+        "The transaction occurred on June 17, 2026.",
+        "iBow Inc. states its intention to be a long-term, stable shareholder."
+      ],
+      "investor_takeaway": "Investors should note the increased concentration of ownership by a CEO-affiliated entity, reinforcing management's long-term commitment and control.",
+      "company_jp": "Ｇ－ｅＷｅＬＬ",
+      "category": "Tender Offer (TOB)",
+      "time_jst": "08:00"
+    }
+  ],
+  "generated_at": "2026-06-17T03:23:49.655124Z"
+}
