@@ -35,4 +35,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://JpTradeFlowOracle.github.io/jp-disclosure-intelligence/sitemap.xml
+Sitemap: https://JpTradeFlowOracle.github.io/sitemap.xml
