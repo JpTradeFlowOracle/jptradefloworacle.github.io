@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-19",
+      "top_themes": [
+        "Enhanced Corporate Governance",
+        "Executive Incentive Alignment",
+        "Strategic Leadership Realignment"
+      ],
+      "filing_count": 6
+    },
+    {
       "date": "2026-06-18",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -129,5 +138,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-18T08:30:31.733263Z"
+  "updated_at": "2026-06-19T08:29:02.904255Z"
 }
