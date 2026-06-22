@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-22",
+      "total": 303,
+      "top_categories": [
+        "Large Shareholder",
+        "Extraordinary Report",
+        "Tender Offer (TOB)"
+      ]
+    },
+    {
       "date": "2026-06-19",
       "total": 304,
       "top_categories": [
@@ -309,5 +318,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-20T06:11:00.323640Z"
+  "updated_at": "2026-06-22T07:36:35.060584Z"
 }

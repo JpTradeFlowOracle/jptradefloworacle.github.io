@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-22",
+      "top_themes": [
+        "Operational Streamlining and Portfolio Optimization",
+        "Enhanced Corporate Governance and Leadership Realignment",
+        "Strategic Privatization Initiatives"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-19",
       "top_themes": [
         "Enhanced Corporate Governance",
@@ -138,5 +147,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-19T08:29:02.904255Z"
+  "updated_at": "2026-06-22T07:36:34.567178Z"
 }
