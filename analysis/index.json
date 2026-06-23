@@ -1,6 +1,11 @@
 {
   "dates": [
     {
+      "date": "2026-06-23",
+      "top_themes": [],
+      "filing_count": 4
+    },
+    {
       "date": "2026-06-22",
       "top_themes": [
         "Operational Streamlining and Portfolio Optimization",
@@ -147,5 +152,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-22T07:36:34.567178Z"
+  "updated_at": "2026-06-23T11:03:42.734461Z"
 }
