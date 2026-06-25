@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-25",
+      "top_themes": [
+        "Strategic M&A and Corporate Restructuring",
+        "Operational Efficiency and Market Expansion",
+        "Enhanced Corporate Governance and Anti-Takeover Measures"
+      ],
+      "filing_count": 4
+    },
+    {
       "date": "2026-06-24",
       "top_themes": [],
       "filing_count": 4
@@ -157,5 +166,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-24T09:31:38.103034Z"
+  "updated_at": "2026-06-25T07:03:46.824630Z"
 }
