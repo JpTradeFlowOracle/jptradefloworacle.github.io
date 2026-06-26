@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-26",
+      "total": 564,
+      "top_categories": [
+        "Extraordinary Report",
+        "Large Shareholder",
+        "Parent Company Report"
+      ]
+    },
+    {
       "date": "2026-06-25",
       "total": 258,
       "top_categories": [
@@ -345,5 +354,5 @@
       ]
     }
   ],
-  "updated_at": "2026-06-25T07:03:47.196811Z"
+  "updated_at": "2026-06-26T10:56:11.179773Z"
 }

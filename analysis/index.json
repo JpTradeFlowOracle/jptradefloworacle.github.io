@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-26",
+      "top_themes": [
+        "Reinforcement of Anti-Takeover Defenses",
+        "Corporate Restructuring and Strategic M&A",
+        "Enhanced Independent Governance Oversight"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-25",
       "top_themes": [
         "Strategic M&A and Corporate Restructuring",
@@ -166,5 +175,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-25T07:03:46.824630Z"
+  "updated_at": "2026-06-26T10:56:10.719228Z"
 }
