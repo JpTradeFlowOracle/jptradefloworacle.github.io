@@ -14,7 +14,7 @@
       "Parent Company Report"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-06-26T10:56:11.101621Z"
+    "generated_at": "2026-06-27T10:12:00.637399Z"
   },
   "filings": [
     {
@@ -738,7 +738,7 @@
       "doc_type_code": "180",
       "category": "Extraordinary Report",
       "company_jp": "ゼット株式会社",
-      "company_en": "ゼット株式会社",
+      "company_en": "Z Co., Ltd.",
       "description": "臨時報告書",
       "submitted_at": "2026-06-26 09:19",
       "edinet_code": "E03076",
@@ -881,7 +881,7 @@
       "doc_type_code": "200",
       "category": "Parent Company Report",
       "company_jp": "北海道電力ネットワーク株式会社",
-      "company_en": "北海道電力ネットワーク株式会社",
+      "company_en": "Hokkaido Electric Power Network Co., Ltd.",
       "description": "親会社等状況報告書（内国会社）－第7期(2025/04/01－2026/03/31)",
       "submitted_at": "2026-06-26 09:28",
       "edinet_code": "E35681",
@@ -7186,7 +7186,7 @@
       "doc_type_code": "180",
       "category": "Extraordinary Report",
       "company_jp": "日本システム技術株式会社",
-      "company_en": "日本システム技術株式会社",
+      "company_en": "Japan System Technology Co., Ltd.",
       "description": "臨時報告書",
       "submitted_at": "2026-06-26 16:54",
       "edinet_code": "E05236",
