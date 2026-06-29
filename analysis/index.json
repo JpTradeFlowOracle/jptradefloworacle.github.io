@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-29",
+      "top_themes": [
+        "Strategic M&A and Portfolio Optimization",
+        "Corporate Governance and Executive Alignment",
+        "Operational Efficiency and Leadership Development"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-26",
       "top_themes": [
         "Reinforcement of Anti-Takeover Defenses",
@@ -175,5 +184,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-26T10:56:10.719228Z"
+  "updated_at": "2026-06-29T08:07:02.615857Z"
 }
