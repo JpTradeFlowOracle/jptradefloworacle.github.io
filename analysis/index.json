@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-06-30",
+      "top_themes": [
+        "Corporate Restructuring and Operational Streamlining",
+        "Strategic Acquisitions and Joint Ventures for Growth",
+        "Privatization and Delisting through Tender Offers"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-29",
       "top_themes": [
         "Strategic M&A and Portfolio Optimization",
@@ -184,5 +193,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-29T08:07:02.615857Z"
+  "updated_at": "2026-06-30T11:01:39.361901Z"
 }
