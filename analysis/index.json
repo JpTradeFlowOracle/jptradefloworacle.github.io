@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-01",
+      "top_themes": [
+        "Corporate Restructuring and Consolidation",
+        "Operational Efficiency and Synergy Realization",
+        "Strategic Portfolio Enhancement"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-06-30",
       "top_themes": [
         "Corporate Restructuring and Operational Streamlining",
@@ -193,5 +202,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-06-30T11:01:39.361901Z"
+  "updated_at": "2026-07-01T08:05:26.777785Z"
 }
