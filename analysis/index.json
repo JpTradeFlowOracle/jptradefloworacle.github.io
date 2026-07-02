@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-02",
+      "top_themes": [
+        "Earnings Resilience & Upgrades",
+        "M&A & Corporate Restructuring",
+        "Shareholder Value & Governance Focus"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-01",
       "top_themes": [
         "Corporate Restructuring and Consolidation",
@@ -202,5 +211,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-01T08:05:26.777785Z"
+  "updated_at": "2026-07-02T07:15:53.727941Z"
 }
