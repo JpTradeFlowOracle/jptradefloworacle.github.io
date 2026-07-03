@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-03",
+      "top_themes": [
+        "M&A and Corporate Restructuring",
+        "Tender Offers and Privatization",
+        "Corporate Governance and Financial Scrutiny"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-02",
       "top_themes": [
         "Earnings Resilience & Upgrades",
@@ -211,5 +220,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-02T07:15:53.727941Z"
+  "updated_at": "2026-07-03T08:55:02.332257Z"
 }
