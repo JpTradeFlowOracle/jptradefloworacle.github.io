@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-09",
+      "top_themes": [
+        "M&A and Tender Offer Activity",
+        "Strategic Consolidation and Delisting",
+        "Corporate Governance and Executive Incentives"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-08",
       "top_themes": [
         "Strategic M&A and Consolidation",
@@ -247,5 +256,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-08T09:47:59.826181Z"
+  "updated_at": "2026-07-09T07:10:44.320722Z"
 }

@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-09",
+      "total": 63,
+      "top_categories": [
+        "Share Buyback",
+        "Extraordinary Report",
+        "Large Shareholder"
+      ]
+    },
+    {
       "date": "2026-07-08",
       "total": 105,
       "top_categories": [
@@ -426,5 +435,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-08T09:48:02.501068Z"
+  "updated_at": "2026-07-09T07:10:47.173121Z"
 }
