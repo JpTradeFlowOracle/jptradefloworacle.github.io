@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-13",
+      "top_themes": [
+        "Strategic Corporate Reorganization",
+        "Tender Offer Dynamics",
+        "Operational Efficiency and Consolidation"
+      ],
+      "filing_count": 7
+    },
+    {
       "date": "2026-07-10",
       "top_themes": [
         "Strategic M&A for Growth",
@@ -265,5 +274,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-10T08:51:39.349658Z"
+  "updated_at": "2026-07-13T09:02:51.575312Z"
 }
