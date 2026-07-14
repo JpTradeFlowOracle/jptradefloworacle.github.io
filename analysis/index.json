@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-14",
+      "top_themes": [
+        "Strategic M&A and Post-Acquisition Integration",
+        "Shareholder Activism and Corporate Defense",
+        "Tender Offer Dynamics and Deal Refinements"
+      ],
+      "filing_count": 8
+    },
+    {
       "date": "2026-07-13",
       "top_themes": [
         "Strategic Corporate Reorganization",
@@ -274,5 +283,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-13T09:02:51.575312Z"
+  "updated_at": "2026-07-14T12:03:28.095741Z"
 }
