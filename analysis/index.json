@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-15",
+      "top_themes": [
+        "Strategic Portfolio Transformation",
+        "Enhanced Corporate Governance & Control",
+        "Diversification into High-Growth Sectors"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-14",
       "top_themes": [
         "Strategic M&A and Post-Acquisition Integration",
@@ -283,5 +292,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-14T12:03:28.095741Z"
+  "updated_at": "2026-07-15T10:32:33.584056Z"
 }
