@@ -1,19 +1,19 @@
 {
   "summary": {
     "date": "2026-07-16",
-    "total_filings": 73,
+    "total_filings": 77,
     "by_category": {
+      "Extraordinary Report": 36,
       "Large Shareholder": 36,
-      "Extraordinary Report": 33,
-      "Share Buyback": 4
+      "Share Buyback": 5
     },
     "top_categories": [
-      "Large Shareholder",
       "Extraordinary Report",
+      "Large Shareholder",
       "Share Buyback"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-07-16T07:33:20.046215Z"
+    "generated_at": "2026-07-16T08:00:13.318938Z"
   },
   "filings": [
     {
@@ -988,6 +988,66 @@
       "edinet_code": "E06718",
       "sec_code": null,
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YQJP"
+    },
+    {
+      "doc_id": "S100YR28",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "プリモグローバルホールディングス株式会社",
+      "company_en": "Primo Global Holdings Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-07-16 16:16",
+      "edinet_code": "E40648",
+      "sec_code": "367A0",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR28"
+    },
+    {
+      "doc_id": "S100YR2D",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "株式会社エムアップホールディングス",
+      "company_en": "M-up Holdings Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-07-16 16:18",
+      "edinet_code": "E26332",
+      "sec_code": "36610",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR2D",
+      "buyback_info": {
+        "period_start": "2026年2月24日",
+        "period_end": "2026年7月31日",
+        "plan_shares": "1450000",
+        "plan_amount": "1000000000",
+        "progress_shares_pct": 98.8,
+        "progress_amount_pct": 100.0
+      }
+    },
+    {
+      "doc_id": "S100YR2H",
+      "doc_type": "Amendment to Extraordinary Report",
+      "doc_type_code": "190",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社ＪＭＤＣ",
+      "company_en": "JMDC Co., Ltd.",
+      "description": "訂正臨時報告書",
+      "submitted_at": "2026-07-16 16:32",
+      "edinet_code": "E35308",
+      "sec_code": "44830",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR2H"
+    },
+    {
+      "doc_id": "S100YQYO",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社グルメ杵屋",
+      "company_en": "Gourmet Kineya Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-07-16 16:35",
+      "edinet_code": "E03145",
+      "sec_code": "98500",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YQYO"
     }
   ]
 }
