@@ -1,10 +1,10 @@
 {
   "summary": {
     "date": "2026-07-16",
-    "total_filings": 78,
+    "total_filings": 79,
     "by_category": {
       "Extraordinary Report": 37,
-      "Large Shareholder": 36,
+      "Large Shareholder": 37,
       "Share Buyback": 5
     },
     "top_categories": [
@@ -13,7 +13,7 @@
       "Share Buyback"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-07-16T08:12:58.890480Z"
+    "generated_at": "2026-07-16T08:16:43.448621Z"
   },
   "filings": [
     {
@@ -1061,6 +1061,19 @@
       "edinet_code": "E05694",
       "sec_code": "38500",
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR2R"
+    },
+    {
+      "doc_id": "S100YR2C",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "吉成　夏子",
+      "company_en": "Natsuko Yoshinari",
+      "description": "変更報告書",
+      "submitted_at": "2026-07-16 17:11",
+      "edinet_code": "E35088",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR2C"
     }
   ]
 }
