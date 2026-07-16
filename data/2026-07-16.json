@@ -1,9 +1,9 @@
 {
   "summary": {
     "date": "2026-07-16",
-    "total_filings": 77,
+    "total_filings": 78,
     "by_category": {
-      "Extraordinary Report": 36,
+      "Extraordinary Report": 37,
       "Large Shareholder": 36,
       "Share Buyback": 5
     },
@@ -13,7 +13,7 @@
       "Share Buyback"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-07-16T08:00:13.318938Z"
+    "generated_at": "2026-07-16T08:12:58.890480Z"
   },
   "filings": [
     {
@@ -1048,6 +1048,19 @@
       "edinet_code": "E03145",
       "sec_code": "98500",
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YQYO"
+    },
+    {
+      "doc_id": "S100YR2R",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社エヌ・ティ・ティ・データ・イントラマート",
+      "company_en": "NTT Data Intramart Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-07-16 17:00",
+      "edinet_code": "E05694",
+      "sec_code": "38500",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YR2R"
     }
   ]
 }
