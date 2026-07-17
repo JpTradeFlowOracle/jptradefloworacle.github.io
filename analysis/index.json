@@ -1,6 +1,11 @@
 {
   "dates": [
     {
+      "date": "2026-07-17",
+      "top_themes": [],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-16",
       "top_themes": [
         "Corporate Governance & Executive Incentives",
@@ -301,5 +306,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-16T07:33:19.427859Z"
+  "updated_at": "2026-07-17T06:42:43.743004Z"
 }
