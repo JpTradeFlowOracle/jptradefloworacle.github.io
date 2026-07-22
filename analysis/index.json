@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-22",
+      "top_themes": [
+        "Enhanced Corporate Governance & Executive Incentive Alignment",
+        "Strategic Internal Restructuring for Operational Efficiency",
+        "Executive Leadership Realignment & Strengthening"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-21",
       "top_themes": [
         "Internal Restructuring & Operational Efficiency",
@@ -315,5 +324,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-21T12:03:03.637556Z"
+  "updated_at": "2026-07-22T09:24:16.618998Z"
 }
