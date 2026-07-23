@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-23",
+      "top_themes": [
+        "Enhanced Corporate Governance and Executive Incentivization",
+        "Strategic Business Restructuring and Portfolio Optimization",
+        "Proactive Capital Management and Leadership Transitions"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-22",
       "top_themes": [
         "Enhanced Corporate Governance & Executive Incentive Alignment",
@@ -324,5 +333,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-22T09:24:16.618998Z"
+  "updated_at": "2026-07-23T06:40:06.212783Z"
 }

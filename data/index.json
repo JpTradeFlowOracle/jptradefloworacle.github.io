@@ -1,6 +1,14 @@
 {
   "dates": [
     {
+      "date": "2026-07-23",
+      "total": 124,
+      "top_categories": [
+        "Large Shareholder",
+        "Extraordinary Report"
+      ]
+    },
+    {
       "date": "2026-07-22",
       "total": 115,
       "top_categories": [
@@ -506,5 +514,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-22T09:24:16.997575Z"
+  "updated_at": "2026-07-23T06:40:06.581198Z"
 }
