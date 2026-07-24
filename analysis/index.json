@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-24",
+      "top_themes": [
+        "Strategic Portfolio Optimization & Divestitures",
+        "Internal Restructuring for Efficiency",
+        "Corporate Governance & Management Alignment"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-23",
       "top_themes": [
         "Enhanced Corporate Governance and Executive Incentivization",
@@ -333,5 +342,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-23T06:40:06.212783Z"
+  "updated_at": "2026-07-24T10:14:10.025284Z"
 }
