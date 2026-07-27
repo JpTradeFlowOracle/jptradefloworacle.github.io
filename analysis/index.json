@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-27",
+      "top_themes": [
+        "Internal Corporate Restructuring",
+        "Strategic Business Realignment",
+        "Executive Accountability and Succession"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-24",
       "top_themes": [
         "Strategic Portfolio Optimization & Divestitures",
@@ -342,5 +351,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-24T10:14:10.025284Z"
+  "updated_at": "2026-07-27T07:57:53.094441Z"
 }
