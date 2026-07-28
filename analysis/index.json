@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-28",
+      "top_themes": [
+        "Corporate Restructuring & Operational Efficiency",
+        "Enhanced Corporate Governance & Management Succession",
+        "Strategic M&A and Privatization"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-07-27",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -351,5 +360,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-27T07:57:53.094441Z"
+  "updated_at": "2026-07-28T10:44:29.987071Z"
 }
