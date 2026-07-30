@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-30",
+      "top_themes": [
+        "Strategic Delistings for Transformation",
+        "Enhanced Corporate Governance in Buyouts",
+        "Urban Development and Regional Growth"
+      ],
+      "filing_count": 2
+    },
+    {
       "date": "2026-07-29",
       "top_themes": [],
       "filing_count": 10
@@ -365,5 +374,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-29T06:56:58.299046Z"
+  "updated_at": "2026-07-30T09:30:35.315091Z"
 }
