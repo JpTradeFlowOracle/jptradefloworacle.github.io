@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-07-31",
+      "top_themes": [
+        "Internal Corporate Restructuring",
+        "Strategic Portfolio Optimization",
+        "Operational Efficiency Enhancement"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-07-30",
       "top_themes": [
         "Strategic Delistings for Transformation",
@@ -374,5 +383,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-30T09:30:35.315091Z"
+  "updated_at": "2026-07-31T09:52:18.701043Z"
 }
