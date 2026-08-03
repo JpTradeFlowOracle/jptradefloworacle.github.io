@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-03",
+      "top_themes": [
+        "Corporate Governance & Shareholder Returns",
+        "Operational Streamlining & Efficiency",
+        "Strategic M&A Dynamics"
+      ],
+      "filing_count": 7
+    },
+    {
       "date": "2026-07-31",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -383,5 +392,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-07-31T09:52:18.701043Z"
+  "updated_at": "2026-08-03T08:06:28.817762Z"
 }
