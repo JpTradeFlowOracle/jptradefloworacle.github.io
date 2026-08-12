@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-12",
+      "top_themes": [
+        "Corporate Governance and Management Restructuring",
+        "Divergent Earnings Trajectories",
+        "Strategic Investments and Operational Efficiency"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-08-10",
       "top_themes": [
         "Strategic Portfolio Optimization",
@@ -437,5 +446,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-10T09:08:32.607210Z"
+  "updated_at": "2026-08-12T10:02:43.234789Z"
 }
