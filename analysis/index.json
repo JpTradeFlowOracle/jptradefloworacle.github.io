@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-13",
+      "top_themes": [
+        "Corporate Restructuring for Efficiency",
+        "Upward Earnings Revisions in Tech/Services",
+        "Cost Management Challenges in Manufacturing"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-08-12",
       "top_themes": [
         "Corporate Governance and Management Restructuring",
@@ -446,5 +455,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-12T10:02:43.234789Z"
+  "updated_at": "2026-08-13T07:12:17.075392Z"
 }
