@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-14",
+      "top_themes": [
+        "Corporate Restructuring & Governance Enhancement",
+        "Strategic Portfolio Optimization",
+        "Tender Offer Dynamics"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-08-13",
       "top_themes": [
         "Corporate Restructuring for Efficiency",
@@ -455,5 +464,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-13T07:12:17.075392Z"
+  "updated_at": "2026-08-15T09:52:21.403553Z"
 }
