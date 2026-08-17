@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-17",
+      "top_themes": [
+        "Strategic M&A and Market Expansion",
+        "Operational Streamlining and Integration",
+        "Corporate Governance and Executive Incentives"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-14",
       "top_themes": [
         "Corporate Restructuring & Governance Enhancement",
@@ -464,5 +473,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-15T09:52:21.403553Z"
+  "updated_at": "2026-08-17T09:17:16.108360Z"
 }
