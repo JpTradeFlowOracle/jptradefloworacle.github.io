@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-18",
+      "top_themes": [
+        "Strategic Realignment & Governance Optimization",
+        "Evolving Ownership Structures & M&A Dynamics",
+        "Operational Efficiency & Business Integration"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-08-17",
       "top_themes": [
         "Strategic M&A and Market Expansion",
@@ -473,5 +482,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-17T09:17:16.108360Z"
+  "updated_at": "2026-08-18T12:02:36.347421Z"
 }
