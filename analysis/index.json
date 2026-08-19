@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-19",
+      "top_themes": [
+        "Corporate Restructuring for Efficiency",
+        "Private Equity-led Privatization",
+        "Active ETF Performance Dynamics"
+      ],
+      "filing_count": 8
+    },
+    {
       "date": "2026-08-18",
       "top_themes": [
         "Strategic Realignment & Governance Optimization",
@@ -482,5 +491,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-18T12:02:36.347421Z"
+  "updated_at": "2026-08-19T08:14:28.892892Z"
 }
