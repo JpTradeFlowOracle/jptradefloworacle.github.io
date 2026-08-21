@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-21",
+      "top_themes": [
+        "Internal Operational Restructuring",
+        "Enhanced Corporate Governance",
+        "Strategic Human Capital Management"
+      ],
+      "filing_count": 9
+    },
+    {
       "date": "2026-08-20",
       "top_themes": [
         "Enhanced Profitability and Operational Efficiency",
@@ -500,5 +509,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-20T07:10:03.117926Z"
+  "updated_at": "2026-08-21T07:33:39.181936Z"
 }
