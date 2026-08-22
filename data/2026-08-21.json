@@ -1,11 +1,12 @@
 {
   "summary": {
     "date": "2026-08-21",
-    "total_filings": 118,
+    "total_filings": 135,
     "by_category": {
-      "Large Shareholder": 95,
-      "Extraordinary Report": 20,
-      "Parent Company Report": 3
+      "Large Shareholder": 108,
+      "Extraordinary Report": 23,
+      "Parent Company Report": 3,
+      "Share Buyback": 1
     },
     "top_categories": [
       "Large Shareholder",
@@ -13,7 +14,7 @@
       "Parent Company Report"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-08-21T07:33:39.549675Z"
+    "generated_at": "2026-08-22T07:11:14.325784Z"
   },
   "filings": [
     {
@@ -1549,6 +1550,235 @@
       "edinet_code": "E31883",
       "sec_code": null,
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YXYZ"
+    },
+    {
+      "doc_id": "S100YY40",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社イード",
+      "company_en": "Eid Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-08-21 16:09",
+      "edinet_code": "E31343",
+      "sec_code": "60380",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY40"
+    },
+    {
+      "doc_id": "S100YXAS",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "株式会社ヴァレックス・パートナーズ",
+      "company_en": "Valex Partners Co., Ltd.",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:09",
+      "edinet_code": "E35873",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YXAS"
+    },
+    {
+      "doc_id": "S100YVWO",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "ＳＥＮＪＩＮ　ＣＡＰＩＴＡＬ　ＰＴＹ　ＬＴＤ",
+      "company_en": "SENJIN CAPITAL PTY LTD",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:13",
+      "edinet_code": "E40869",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YVWO"
+    },
+    {
+      "doc_id": "S100YXQU",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "ＴＲＡＮ　ＶＡＮ　ＭＩＮＨ",
+      "company_en": "TRAN VAN MINH",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:16",
+      "edinet_code": "E37380",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YXQU"
+    },
+    {
+      "doc_id": "S100YY42",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "アースエレメンツ・キャピタル株式会社",
+      "company_en": "Earth Elements Capital Co., Ltd.",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:19",
+      "edinet_code": "E38417",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY42"
+    },
+    {
+      "doc_id": "S100YY2Z",
+      "doc_type": "Amendment to Large Shareholder Report",
+      "doc_type_code": "360",
+      "category": "Large Shareholder",
+      "company_jp": "神川　貴実彦",
+      "company_en": "Takahiko Kamikawa",
+      "description": "訂正報告書（大量保有報告書・変更報告書）",
+      "submitted_at": "2026-08-21 16:22",
+      "edinet_code": "E41067",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY2Z"
+    },
+    {
+      "doc_id": "S100YY47",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社ソラスト",
+      "company_en": "Solast Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-08-21 16:25",
+      "edinet_code": "E04878",
+      "sec_code": "61970",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY47"
+    },
+    {
+      "doc_id": "S100YY3N",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "神川　貴実彦",
+      "company_en": "Takahiko Kamikawa",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:26",
+      "edinet_code": "E41067",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY3N"
+    },
+    {
+      "doc_id": "S100YY4A",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社ソラスト",
+      "company_en": "Solast Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-08-21 16:27",
+      "edinet_code": "E04878",
+      "sec_code": "61970",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY4A"
+    },
+    {
+      "doc_id": "S100YXY6",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "グロースパートナーズ株式会社",
+      "company_en": "Growth Partners Co., Ltd.",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:31",
+      "edinet_code": "E39685",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YXY6"
+    },
+    {
+      "doc_id": "S100YX4I",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "十河　宏輔",
+      "company_en": "Kosuke Sogo",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:33",
+      "edinet_code": "E38299",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YX4I"
+    },
+    {
+      "doc_id": "S100YY4H",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "ＦＩＲＳＴ　ＰＬＵＳ　ＦＩＮＡＮＣＩＡＬ　ＨＯＬＤＩＮＧＳ　ＰＴＥ．　ＬＴＤ．",
+      "company_en": "FIRST PLUS FINANCIAL HOLDINGS PTE. LTD.",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:38",
+      "edinet_code": "E39851",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY4H"
+    },
+    {
+      "doc_id": "S100YY4I",
+      "doc_type": "Share Buyback Status Report",
+      "doc_type_code": "220",
+      "category": "Share Buyback",
+      "company_jp": "株式会社テリロジーホールディングス",
+      "company_en": "Terilogy Holdings Co., Ltd.",
+      "description": "自己株券買付状況報告書（法２４条の６第１項に基づくもの）",
+      "submitted_at": "2026-08-21 16:39",
+      "edinet_code": "E37914",
+      "sec_code": "51330",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY4I",
+      "buyback_info": {
+        "period_start": "2026年7月3日",
+        "period_end": "2026年8月31日",
+        "plan_shares": "720000",
+        "plan_amount": "200000000",
+        "progress_shares_pct": 28.48,
+        "progress_amount_pct": 31.63
+      }
+    },
+    {
+      "doc_id": "S100YY0A",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "山口　拓己",
+      "company_en": "Takumi Yamaguchi",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 16:45",
+      "edinet_code": "E32320",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY0A"
+    },
+    {
+      "doc_id": "S100YY3J",
+      "doc_type": "Amendment to Large Shareholder Report",
+      "doc_type_code": "360",
+      "category": "Large Shareholder",
+      "company_jp": "インベスコ・アセット・マネジメント株式会社",
+      "company_en": "Invesco Asset Management Co., Ltd.",
+      "description": "訂正報告書（大量保有報告書・変更報告書）",
+      "submitted_at": "2026-08-21 16:51",
+      "edinet_code": "E06479",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY3J"
+    },
+    {
+      "doc_id": "S100YY24",
+      "doc_type": "Amendment to Large Shareholder Report",
+      "doc_type_code": "360",
+      "category": "Large Shareholder",
+      "company_jp": "株式会社伊予鉄グループ",
+      "company_en": "Iyotetsu Group Co., Ltd.",
+      "description": "訂正報告書（大量保有報告書・変更報告書）",
+      "submitted_at": "2026-08-21 16:57",
+      "edinet_code": "E04122",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY24"
+    },
+    {
+      "doc_id": "S100YY51",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "髙島　宏平",
+      "company_en": "Kohei Takashima",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-21 17:11",
+      "edinet_code": "E27408",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YY51"
     }
   ]
 }
