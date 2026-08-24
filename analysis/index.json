@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-24",
+      "top_themes": [
+        "Strategic M&A and Consolidation",
+        "Corporate Governance and Management Alignment",
+        "Earnings Performance and Fund Dynamics"
+      ],
+      "filing_count": 7
+    },
+    {
       "date": "2026-08-21",
       "top_themes": [
         "Internal Operational Restructuring",
@@ -509,5 +518,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-21T07:33:39.181936Z"
+  "updated_at": "2026-08-24T06:58:36.887002Z"
 }
