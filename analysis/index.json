@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-25",
+      "top_themes": [
+        "Internal Restructuring & Operational Efficiency",
+        "Corporate Governance Enhancement",
+        "Strategic Leadership Integration"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-24",
       "top_themes": [
         "Strategic M&A and Consolidation",
@@ -518,5 +527,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-24T06:58:36.887002Z"
+  "updated_at": "2026-08-25T07:09:41.345936Z"
 }
