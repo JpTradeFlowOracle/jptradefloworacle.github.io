@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-26",
+      "top_themes": [
+        "Strategic M&A and Privatization",
+        "Enhanced Corporate Governance and Oversight",
+        "Shareholder Structure Evolution and Incentive Alignment"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-25",
       "top_themes": [
         "Internal Restructuring & Operational Efficiency",
@@ -527,5 +536,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-25T07:09:41.345936Z"
+  "updated_at": "2026-08-26T08:26:05.715770Z"
 }
