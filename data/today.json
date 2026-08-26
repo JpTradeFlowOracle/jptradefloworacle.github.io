@@ -1,10 +1,10 @@
 {
   "summary": {
     "date": "2026-08-26",
-    "total_filings": 81,
+    "total_filings": 84,
     "by_category": {
-      "Extraordinary Report": 45,
-      "Large Shareholder": 32,
+      "Extraordinary Report": 46,
+      "Large Shareholder": 34,
       "Parent Company Report": 3,
       "Tender Offer (TOB)": 1
     },
@@ -14,7 +14,7 @@
       "Parent Company Report"
     ],
     "source": "EDINET (Financial Services Agency of Japan)",
-    "generated_at": "2026-08-26T08:26:06.052292Z"
+    "generated_at": "2026-08-26T09:40:02.694750Z"
   },
   "filings": [
     {
@@ -998,7 +998,7 @@
       "doc_type_code": "350",
       "category": "Large Shareholder",
       "company_jp": "Ｍｏｂｉｌｉｔｙ＆Ｍａｉｎｔｅｎａｎｃｅ　Ｊａｐａｎ株式会社",
-      "company_en": "Mobility&Maintenance Japan株式会社",
+      "company_en": "Mobility&Maintenance Japan Co., Ltd.",
       "description": "変更報告書",
       "submitted_at": "2026-08-26 15:58",
       "edinet_code": "E39274",
@@ -1069,6 +1069,45 @@
       "edinet_code": "E39685",
       "sec_code": null,
       "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YYPB"
+    },
+    {
+      "doc_id": "S100YYVC",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "冨永　重寛",
+      "company_en": "冨永 重寛",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-26 17:09",
+      "edinet_code": "E37266",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YYVC"
+    },
+    {
+      "doc_id": "S100YYVA",
+      "doc_type": "Extraordinary Report (Domestic Specified Securities)",
+      "doc_type_code": "180",
+      "category": "Extraordinary Report",
+      "company_jp": "株式会社ＡＣＣＥＳＳ",
+      "company_en": "ACCESS Co., Ltd.",
+      "description": "臨時報告書",
+      "submitted_at": "2026-08-26 17:12",
+      "edinet_code": "E05168",
+      "sec_code": "48130",
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YYVA"
+    },
+    {
+      "doc_id": "S100YYUL",
+      "doc_type": "Large Shareholder Report / Amendment",
+      "doc_type_code": "350",
+      "category": "Large Shareholder",
+      "company_jp": "藤井　和也",
+      "company_en": "藤井 和也",
+      "description": "変更報告書",
+      "submitted_at": "2026-08-26 17:13",
+      "edinet_code": "E37265",
+      "sec_code": null,
+      "doc_url": "https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S1_S100YYUL"
     }
   ]
 }
