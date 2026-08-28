@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-28",
+      "top_themes": [
+        "Strategic M&A and Business Restructuring",
+        "Privatization and Delisting Initiatives",
+        "Shareholder Activism and Governance Challenges"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-26",
       "top_themes": [
         "Strategic M&A and Privatization",
@@ -536,5 +545,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-26T08:26:05.715770Z"
+  "updated_at": "2026-08-28T08:32:53.109090Z"
 }
