@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-08-31",
+      "top_themes": [
+        "Internal Corporate Restructuring",
+        "Strategic M&A and Privatization Bids",
+        "Ownership Consolidation and Shareholder Influence"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-28",
       "top_themes": [
         "Strategic M&A and Business Restructuring",
@@ -545,5 +554,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-28T08:32:53.109090Z"
+  "updated_at": "2026-08-31T09:38:52.924274Z"
 }
