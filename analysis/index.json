@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-01",
+      "top_themes": [
+        "Internal Restructuring & Leadership Optimization",
+        "Strategic M&A and Integration",
+        "Digital Transformation & Operational Efficiency"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-08-31",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -554,5 +563,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-08-31T09:38:52.924274Z"
+  "updated_at": "2026-09-01T09:34:41.338675Z"
 }
