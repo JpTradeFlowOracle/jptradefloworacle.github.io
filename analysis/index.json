@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-03",
+      "top_themes": [
+        "Shareholder Returns & Capital Management",
+        "Earnings Revisions and Margin Compression",
+        "M&A and Privatization Dynamics"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-02",
       "top_themes": [
         "Strategic Portfolio Optimization",
@@ -572,5 +581,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-02T06:46:09.235826Z"
+  "updated_at": "2026-09-03T07:31:37.316206Z"
 }
