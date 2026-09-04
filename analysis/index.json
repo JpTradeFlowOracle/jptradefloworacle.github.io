@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-04",
+      "top_themes": [
+        "Earnings forecast adjustments, reflecting diverse operational and market conditions",
+        "Strategic corporate restructuring and leadership transitions aimed at optimizing business portfolios and governance",
+        "Impact of external macroeconomic factors, including currency fluctuations, geopolitical tensions, and commodity price volatility"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-03",
       "top_themes": [
         "Shareholder Returns & Capital Management",
@@ -581,5 +590,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-03T07:31:37.316206Z"
+  "updated_at": "2026-09-04T09:53:38.482097Z"
 }
