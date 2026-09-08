@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-08",
+      "top_themes": [
+        "Internal Corporate Restructuring",
+        "Strategic Capital Management",
+        "M&A and Governance Dynamics"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-07",
       "top_themes": [
         "Strategic Restructuring & M&A",
@@ -599,5 +608,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-07T08:43:58.548336Z"
+  "updated_at": "2026-09-08T08:18:54.475019Z"
 }
