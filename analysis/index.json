@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-09",
+      "top_themes": [
+        "Corporate Control and M&A Dynamics",
+        "Strategic Leadership and Governance Enhancements",
+        "Focus on Profitability and Operational Efficiency"
+      ],
+      "filing_count": 7
+    },
+    {
       "date": "2026-09-08",
       "top_themes": [
         "Internal Corporate Restructuring",
@@ -608,5 +617,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-08T08:18:54.475019Z"
+  "updated_at": "2026-09-09T10:32:32.685665Z"
 }
