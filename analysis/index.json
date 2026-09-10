@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-10",
+      "top_themes": [
+        "Tender Offers and Privatization",
+        "Corporate Governance and Strategic Restructuring",
+        "Shareholder Value Enhancement"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-09",
       "top_themes": [
         "Corporate Control and M&A Dynamics",
@@ -617,5 +626,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-09T10:32:32.685665Z"
+  "updated_at": "2026-09-10T09:38:07.853520Z"
 }
