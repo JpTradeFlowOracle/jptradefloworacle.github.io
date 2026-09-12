@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-11",
+      "top_themes": [
+        "Internal Group Restructuring for Operational Efficiency",
+        "Strategic Acquisitions for Capability Enhancement and Market Expansion",
+        "Dynamic Tender Offer Adjustments and Shareholder Commitments"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-10",
       "top_themes": [
         "Tender Offers and Privatization",
@@ -626,5 +635,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-10T09:38:07.853520Z"
+  "updated_at": "2026-09-12T09:13:32.348112Z"
 }
