@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-14",
+      "top_themes": [
+        "Tender Offer Certainty & Improved Terms",
+        "Corporate Governance & Accountability",
+        "Strategic Leadership Reinforcement"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-11",
       "top_themes": [
         "Internal Group Restructuring for Operational Efficiency",
@@ -635,5 +644,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-12T09:13:32.348112Z"
+  "updated_at": "2026-09-14T08:51:25.087143Z"
 }
