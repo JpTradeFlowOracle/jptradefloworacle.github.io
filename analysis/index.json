@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-15",
+      "top_themes": [
+        "Privatization & Delisting",
+        "Operational Streamlining & Efficiency",
+        "Strategic Asset Divestment"
+      ],
+      "filing_count": 7
+    },
+    {
       "date": "2026-09-14",
       "top_themes": [
         "Tender Offer Certainty & Improved Terms",
@@ -644,5 +653,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-14T08:51:25.087143Z"
+  "updated_at": "2026-09-15T08:42:42.129976Z"
 }
