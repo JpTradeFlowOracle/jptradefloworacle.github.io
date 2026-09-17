@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-17",
+      "top_themes": [
+        "Strategic M&A and Operational Restructuring",
+        "Tender Offers and Value Realization",
+        "Enhanced Corporate Governance and Executive Alignment"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-16",
       "top_themes": [
         "Strategic Portfolio Rebalancing",
@@ -662,5 +671,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-16T09:02:07.482353Z"
+  "updated_at": "2026-09-17T07:30:40.589275Z"
 }
