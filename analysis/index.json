@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-18",
+      "top_themes": [
+        "Increased Privatization via Tender Offers",
+        "Strategic Portfolio Optimization and Divestitures",
+        "Executive Leadership and Organizational Realignment"
+      ],
+      "filing_count": 5
+    },
+    {
       "date": "2026-09-17",
       "top_themes": [
         "Strategic M&A and Operational Restructuring",
@@ -671,5 +680,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-17T07:30:40.589275Z"
+  "updated_at": "2026-09-18T09:04:53.443511Z"
 }
