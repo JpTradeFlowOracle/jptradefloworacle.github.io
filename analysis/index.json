@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-24",
+      "top_themes": [
+        "Portfolio Optimization & Divestitures",
+        "Strategic Acquisitions for Growth",
+        "Business Diversification & New Market Entry"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-18",
       "top_themes": [
         "Increased Privatization via Tender Offers",
@@ -680,5 +689,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-18T09:04:53.443511Z"
+  "updated_at": "2026-09-24T08:35:57.630151Z"
 }
