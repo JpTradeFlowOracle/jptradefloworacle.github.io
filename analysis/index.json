@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-28",
+      "top_themes": [
+        "Global Portfolio Optimization & Divestment",
+        "Domestic M&A for Strategic Growth",
+        "Cybersecurity and Operational Risk Management"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-25",
       "top_themes": [
         "Operational Efficiency & Internal Restructuring",
@@ -698,5 +707,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-25T11:46:26.943904Z"
+  "updated_at": "2026-09-28T09:55:19.833219Z"
 }
