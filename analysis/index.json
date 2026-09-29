@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-29",
+      "top_themes": [
+        "Portfolio Optimization & Decarbonization",
+        "Operational Streamlining & Domestic Consolidation",
+        "Strategic M&A for Growth & Recurring Revenue"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-28",
       "top_themes": [
         "Global Portfolio Optimization & Divestment",
@@ -707,5 +716,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-28T09:55:19.833219Z"
+  "updated_at": "2026-09-29T12:17:17.737452Z"
 }
