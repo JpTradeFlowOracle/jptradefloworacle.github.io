@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-09-30",
+      "top_themes": [
+        "Financial Sector Consolidation and Integration",
+        "Portfolio Optimization and Asset Rationalization",
+        "Strategic Internalization of Capabilities"
+      ],
+      "filing_count": 8
+    },
+    {
       "date": "2026-09-29",
       "top_themes": [
         "Portfolio Optimization & Decarbonization",
@@ -716,5 +725,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-29T12:17:17.737452Z"
+  "updated_at": "2026-09-30T08:25:18.293888Z"
 }
