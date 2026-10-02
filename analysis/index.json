@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-02",
+      "top_themes": [
+        "Global M&A for Market Expansion",
+        "Strategic Investments in Digitalization & AI",
+        "Domestic Sector Consolidation"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-09-30",
       "top_themes": [
         "Financial Sector Consolidation and Integration",
@@ -725,5 +734,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-09-30T08:25:18.293888Z"
+  "updated_at": "2026-10-02T10:12:26.073268Z"
 }
