@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-06",
+      "top_themes": [
+        "Strategic M&A and Divestitures",
+        "Digital Transformation and Market Expansion",
+        "Portfolio Optimization and Operational Efficiency"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-02",
       "top_themes": [
         "Global M&A for Market Expansion",
@@ -734,5 +743,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-02T10:12:26.073268Z"
+  "updated_at": "2026-10-06T11:58:28.686157Z"
 }
