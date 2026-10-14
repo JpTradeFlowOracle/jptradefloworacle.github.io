@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-14",
+      "top_themes": [
+        "Strategic M&A and Business Diversification",
+        "Digital Transformation (DX) and AI Infrastructure",
+        "Operational Efficiency and Internal Restructuring"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-09",
       "top_themes": [
         "Corporate Restructuring and Streamlining",
@@ -770,5 +779,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-09T07:59:37.828995Z"
+  "updated_at": "2026-10-14T07:58:39.222265Z"
 }
