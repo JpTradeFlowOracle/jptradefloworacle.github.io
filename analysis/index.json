@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-16",
+      "top_themes": [
+        "Portfolio Optimization & Restructuring",
+        "Strategic International Adjustments",
+        "Focus on Core Competencies & Growth Areas"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-15",
       "top_themes": [
         "AI Infrastructure & Digital Transformation",
@@ -788,5 +797,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-15T08:40:13.175613Z"
+  "updated_at": "2026-10-16T09:23:04.212715Z"
 }
