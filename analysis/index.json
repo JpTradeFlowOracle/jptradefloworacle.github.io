@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-20",
+      "top_themes": [
+        "Portfolio Optimization and Restructuring",
+        "Strategic Divestitures and Joint Venture Realignment",
+        "Growth and Diversification into High-Potential Sectors"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-16",
       "top_themes": [
         "Portfolio Optimization & Restructuring",
@@ -797,5 +806,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-16T09:23:04.212715Z"
+  "updated_at": "2026-10-20T08:26:45.868773Z"
 }
