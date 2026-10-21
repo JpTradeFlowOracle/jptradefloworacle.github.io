@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-21",
+      "top_themes": [
+        "Strategic Portfolio Optimization",
+        "Targeted M&A for Service Integration",
+        "Operational Efficiency & Risk Management"
+      ],
+      "filing_count": 8
+    },
+    {
       "date": "2026-10-20",
       "top_themes": [
         "Portfolio Optimization and Restructuring",
@@ -806,5 +815,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-20T08:26:45.868773Z"
+  "updated_at": "2026-10-21T09:47:26.799543Z"
 }
