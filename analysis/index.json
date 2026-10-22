@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-22",
+      "top_themes": [
+        "Earnings Forecast Revisions Driven by M&A and Demand",
+        "Enhanced Corporate Governance and Board Restructuring",
+        "Strategic Parent-Subsidiary Financial Realignment"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-21",
       "top_themes": [
         "Strategic Portfolio Optimization",
@@ -815,5 +824,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-21T09:47:26.799543Z"
+  "updated_at": "2026-10-22T06:42:54.154447Z"
 }
