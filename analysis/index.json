@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-26",
+      "top_themes": [
+        "Strategic Operational Realignment",
+        "Impact of Macroeconomic Volatility",
+        "Managing Financial and Cyber Risks"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-22",
       "top_themes": [
         "Earnings Forecast Revisions Driven by M&A and Demand",
@@ -824,5 +833,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-22T06:42:54.154447Z"
+  "updated_at": "2026-10-26T05:56:16.500347Z"
 }
