@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-27",
+      "top_themes": [
+        "Strategic Portfolio Optimization & Internal Restructuring",
+        "Enhancing Investor Accessibility and Market Liquidity",
+        "Proactive Management Refresh and Governance"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-26",
       "top_themes": [
         "Strategic Operational Realignment",
@@ -833,5 +842,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-26T05:56:16.500347Z"
+  "updated_at": "2026-10-27T12:44:57.071065Z"
 }
