@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-28",
+      "top_themes": [
+        "Strategic Consolidation & International Expansion",
+        "Digital Business Model Pivots",
+        "Portfolio Optimization & Divestitures"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-27",
       "top_themes": [
         "Strategic Portfolio Optimization & Internal Restructuring",
@@ -842,5 +851,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-27T12:44:57.071065Z"
+  "updated_at": "2026-10-28T08:44:34.907570Z"
 }
