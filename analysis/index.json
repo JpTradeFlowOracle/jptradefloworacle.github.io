@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-29",
+      "top_themes": [
+        "Strategic Portfolio Optimization",
+        "Operational Streamlining & Internal Reorganization",
+        "Expansion into Emerging Technologies (Cloud, AI, Robotics)"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-10-28",
       "top_themes": [
         "Strategic Consolidation & International Expansion",
@@ -851,5 +860,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-28T08:44:34.907570Z"
+  "updated_at": "2026-10-29T08:54:58.063575Z"
 }
