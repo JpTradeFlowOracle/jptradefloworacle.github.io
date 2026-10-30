@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-30",
+      "top_themes": [
+        "Strategic M&A for Technology & Diversification",
+        "Integration of AI/IoT in Traditional Industries",
+        "Focus on Energy Transition Solutions"
+      ],
+      "filing_count": 4
+    },
+    {
       "date": "2026-10-29",
       "top_themes": [
         "Strategic Portfolio Optimization",
@@ -860,5 +869,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-29T08:54:58.063575Z"
+  "updated_at": "2026-10-30T09:12:42.686814Z"
 }
