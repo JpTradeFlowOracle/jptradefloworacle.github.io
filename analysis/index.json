@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-02",
+      "top_themes": [
+        "Risk Management & Data Security",
+        "Overseas Investment Performance",
+        "Earnings Drivers"
+      ],
+      "filing_count": 2
+    },
+    {
       "date": "2026-10-30",
       "top_themes": [
         "Strategic M&A for Technology & Diversification",
@@ -869,5 +878,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-10-30T09:12:42.686814Z"
+  "updated_at": "2026-11-02T07:10:04.435283Z"
 }
