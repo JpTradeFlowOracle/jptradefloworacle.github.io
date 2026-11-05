@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-05",
+      "top_themes": [
+        "Enhanced Corporate Governance and Portfolio Rationalization",
+        "Escalating Cybersecurity Risks and Third-Party Vulnerabilities",
+        "Operational Streamlining and Strategic Integration"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-11-04",
       "top_themes": [
         "Strategic Portfolio Optimization & Divestment",
@@ -887,5 +896,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-04T11:31:51.492717Z"
+  "updated_at": "2026-11-05T09:09:15.728684Z"
 }
