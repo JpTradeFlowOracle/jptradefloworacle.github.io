@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-11",
+      "top_themes": [
+        "Internal Restructuring for Efficiency and Strategic Alignment",
+        "Strategic Financing for Growth and Liquidity Management",
+        "Portfolio Optimization and Market Adaptation"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-11-05",
       "top_themes": [
         "Enhanced Corporate Governance and Portfolio Rationalization",
@@ -896,5 +905,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-05T09:09:15.728684Z"
+  "updated_at": "2026-11-11T07:26:57.339686Z"
 }

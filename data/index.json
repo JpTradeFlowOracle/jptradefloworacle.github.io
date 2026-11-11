@@ -1,6 +1,16 @@
 {
   "dates": [
     {
+      "date": "2026-11-11",
+      "total": 0,
+      "top_categories": []
+    },
+    {
+      "date": "2026-11-06",
+      "total": 0,
+      "top_categories": []
+    },
+    {
       "date": "2026-11-05",
       "total": 0,
       "top_categories": []
@@ -982,5 +992,5 @@
       ]
     }
   ],
-  "updated_at": "2026-11-05T09:09:16.183220Z"
+  "updated_at": "2026-11-11T07:26:57.745323Z"
 }
