@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-16",
+      "top_themes": [
+        "Strategic Global Expansion",
+        "Investment in Future Growth & Technology",
+        "Varied Financial Performance Across Sectors"
+      ],
+      "filing_count": 5
+    },
+    {
       "date": "2026-11-12",
       "top_themes": [
         "Portfolio Restructuring and Divestitures",
@@ -914,5 +923,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-12T09:29:08.600490Z"
+  "updated_at": "2026-11-16T06:09:18.055730Z"
 }
