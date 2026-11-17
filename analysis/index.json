@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-17",
+      "top_themes": [
+        "Global market repositioning",
+        "Strategic international expansion",
+        "Divestment from underperforming overseas assets"
+      ],
+      "filing_count": 2
+    },
+    {
       "date": "2026-11-16",
       "top_themes": [
         "Strategic Global Expansion",
@@ -923,5 +932,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-16T06:09:18.055730Z"
+  "updated_at": "2026-11-17T12:03:36.532000Z"
 }
