@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-18",
+      "top_themes": [
+        "Corporate Restructuring & Portfolio Optimization",
+        "Cybersecurity Risks & Data Breaches",
+        "Strategic Diversification & Regional Expansion"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-11-17",
       "top_themes": [
         "Global market repositioning",
@@ -932,5 +941,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-17T12:03:36.532000Z"
+  "updated_at": "2026-11-18T08:35:20.835723Z"
 }
