@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-19",
+      "top_themes": [
+        "Portfolio Optimization & Divestment",
+        "Internal Group Consolidation for Efficiency",
+        "Strategic Acquisitions for Growth"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-11-18",
       "top_themes": [
         "Corporate Restructuring & Portfolio Optimization",
@@ -941,5 +950,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-18T08:35:20.835723Z"
+  "updated_at": "2026-11-19T08:56:11.528492Z"
 }
