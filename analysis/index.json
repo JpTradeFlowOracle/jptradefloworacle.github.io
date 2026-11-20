@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-11-20",
+      "top_themes": [
+        "Strategic M&A and Divestitures",
+        "Operational Efficiency and Portfolio Optimization",
+        "Digital Transformation and AI Specialization"
+      ],
+      "filing_count": 10
+    },
+    {
       "date": "2026-11-19",
       "top_themes": [
         "Portfolio Optimization & Divestment",
@@ -950,5 +959,5 @@
       "filing_count": 2
     }
   ],
-  "updated_at": "2026-11-19T08:56:11.528492Z"
+  "updated_at": "2026-11-20T08:38:50.854319Z"
 }
